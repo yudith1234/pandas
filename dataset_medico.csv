@@ -1,0 +1,1001 @@
+ID_Paciente,Edad,Sexo,Peso,Fumador,Nivel_Glucosa,Presion_Arterial,Historial_Familiar,Resultado,Altura,Nivel_Colesterol,Tipo_Diabetes,Presion_Diastolica,Frecuencia_Cardiaca,Nivel_Hemoglobina,Historial_Cardiovascular,Actividad_Fisica,Consumo_Alcohol,Dieta
+1,46,Masculino,62,No,166.2,131,Si,Negativo,188,286.7,Tipo 2,76,63,15.2,Si,Baja,No,Baja en protei要as
+2,32,Masculino,83,Si,189.3,,No,Negativo,178,101.5,Gestacional,64,77,12.6,Si,,Si,Alta en carbohidratos
+3,62,Masculino,74,No,106.4,170,No,Positivo,164,145.1,,70,78,13,No,Alta,Si,Alta en grasas
+4,18,Masculino,56,Si,181.6,165,No,Negativo,192,173.1,Tipo 2,89,94,15.4,No,Ninguna,Si,
+5,42,Masculino,53,No,108,176,No,Negativo,,,Ninguno,74,,13.8,No,Moderada,Si,Baja en protei要as
+6,24,Femenino,57,No,188.4,169,Si,Positivo,170,270.2,Tipo 1,86,73,17.6,Si,Baja,No,Alta en carbohidratos
+7,26,Masculino,69,Si,168,156,No,Negativo,188,117.6,Ninguno,94,92,16.9,No,Baja,No,Alta en carbohidratos
+8,41,Masculino,78,Si,174.6,119,Si,Negativo,168,261.2,Tipo 2,92,73,17.9,Si,Baja,Si,Alta en carbohidratos
+9,18,Femenino,94,No,72.3,146,No,Positivo,172,111.1,Ninguno,79,93,13.6,Si,Ninguna,No,Alta en grasas
+10,61,Femenino,95,No,195.2,175,No,Negativo,160,268.5,Gestacional,75,63,17.8,Si,Moderada,Si,Baja en protei要as
+11,25,Femenino,59,No,164.5,162,No,Negativo,160,110.3,Tipo 1,93,,14.6,No,Alta,,Baja en protei要as
+12,41,Femenino,92,Si,109.6,118,Si,Negativo,173,103.6,Tipo 2,61,88,14.1,No,Alta,No,Alta en grasas
+13,28,Femenino,83,Si,177.8,126,Si,Negativo,185,239.4,Tipo 2,94,78,12.3,Si,Moderada,,Alta en grasas
+14,68,Femenino,75,Si,106.6,176,Si,Negativo,189,299.5,Tipo 2,99,65,12.3,No,Ninguna,Si,Alta en grasas
+15,34,Femenino,90,Si,183.5,102,Si,Negativo,173,279.3,Tipo 1,87,92,16.2,Si,Alta,Si,Balanceada
+16,25,Masculino,98,Si,84.6,121,No,Positivo,152,215.2,Gestacional,98,99,14.7,Si,Moderada,No,Alta en carbohidratos
+17,52,Masculino,52,Si,161.5,135,Si,Negativo,171,283.5,Tipo 2,65,78,13.4,No,Alta,Si,Alta en carbohidratos
+18,52,Femenino,55,No,140.3,112,Si,Positivo,151,101.1,Ninguno,68,60,15.7,Si,Baja,Si,Baja en protei要as
+19,50,Masculino,54,No,82.5,134,No,Positivo,173,295,Tipo 2,,64,13.5,Si,Alta,No,Alta en carbohidratos
+20,76,Masculino,54,Si,101.4,106,No,Positivo,193,198.1,Tipo 2,60,86,15.5,No,,Si,Balanceada
+21,22,Masculino,96,No,71.6,,Si,Positivo,179,244.6,Tipo 2,67,75,14.2,Si,Moderada,No,Alta en grasas
+22,59,Femenino,72,No,130.9,155,No,Negativo,,264.2,Tipo 2,82,65,16.9,Si,Ninguna,No,Baja en protei要as
+23,56,Femenino,,Si,109.2,95,Si,Negativo,151,243.7,Gestacional,62,99,16.9,Si,Moderada,No,Baja en protei要as
+24,75,Masculino,58,No,147.8,107,No,Negativo,170,207,Ninguno,63,72,14.9,Si,Baja,Si,Alta en carbohidratos
+25,58,Femenino,84,Si,108.6,111,Si,Positivo,182,195.3,Gestacional,84,94,14.1,Si,Moderada,No,Baja en protei要as
+26,45,Masculino,69,Si,109,122,Si,Negativo,161,267.7,Ninguno,97,,14.2,Si,Alta,No,Alta en grasas
+27,24,Masculino,98,No,166.6,,Si,Negativo,171,141,Tipo 2,74,71,16.8,,Alta,Si,Baja en protei要as
+28,26,Masculino,91,Si,76.3,170,Si,Negativo,193,293.6,Tipo 1,80,75,14,No,Baja,Si,Alta en grasas
+29,25,Masculino,84,Si,187.4,121,Si,Positivo,174,242.2,Gestacional,94,69,13.3,No,Moderada,Si,Balanceada
+30,29,Femenino,99,Si,180.8,131,No,Positivo,198,139.9,Tipo 1,73,84,12.5,Si,Baja,Si,Balanceada
+31,51,Femenino,67,Si,156.8,167,Si,Negativo,176,247.2,Gestacional,95,79,14.8,Si,Alta,No,Alta en grasas
+32,50,Femenino,,Si,147.1,99,Si,Positivo,191,206,Tipo 2,71,90,14.9,No,Ninguna,Si,Alta en carbohidratos
+33,65,Masculino,73,Si,186,125,Si,Positivo,177,241.4,Gestacional,76,63,17,,Baja,Si,Baja en protei要as
+34,72,Femenino,52,Si,94.1,123,Si,Negativo,,253.6,Tipo 2,98,82,13.3,No,,Si,Alta en carbohidratos
+35,40,Masculino,81,Si,80.3,162,Si,Positivo,164,117.5,Gestacional,68,61,14.3,No,Ninguna,Si,Baja en protei要as
+36,79,Femenino,84,No,101.1,117,No,Positivo,196,201.2,Tipo 2,94,81,16.9,No,Moderada,No,Balanceada
+37,41,Masculino,87,No,173.3,100,No,Negativo,193,286.4,Tipo 2,72,96,16.9,Si,Baja,Si,Balanceada
+38,54,Masculino,62,No,74.5,167,Si,Positivo,152,164.1,Ninguno,74,67,14.3,No,Ninguna,No,Balanceada
+39,52,Masculino,96,Si,145.8,128,No,Positivo,186,218.8,Tipo 2,77,66,,No,Ninguna,Si,Baja en protei要as
+40,61,Femenino,74,Si,199.4,,Si,Positivo,,173.8,Ninguno,92,73,13.8,No,Moderada,No,Balanceada
+41,57,Femenino,58,No,181.2,108,No,Positivo,170,190.9,Tipo 2,,62,17.6,Si,Moderada,No,Balanceada
+42,39,Femenino,53,No,137.8,104,No,Positivo,,209.7,Tipo 1,86,75,12.7,Si,Alta,Si,Balanceada
+43,44,Femenino,63,No,78.3,117,Si,Positivo,188,209.8,Tipo 2,82,78,17.6,Si,Ninguna,No,
+44,52,Masculino,86,Si,178.1,113,No,Positivo,167,140.3,Tipo 1,86,77,16.1,Si,Alta,Si,Alta en carbohidratos
+45,18,Femenino,83,No,147.9,161,No,Positivo,153,236.9,Tipo 1,93,75,15.2,Si,Ninguna,No,Balanceada
+46,52,Femenino,60,No,84.9,98,Si,Negativo,174,,Tipo 2,97,67,12.2,Si,Alta,No,Balanceada
+47,54,Masculino,90,Si,82.2,136,Si,Negativo,163,127.8,Tipo 1,73,92,14.9,No,Moderada,No,Alta en carbohidratos
+48,64,Masculino,52,No,188.3,122,No,Negativo,199,100.5,Ninguno,95,71,14.4,Si,Baja,Si,Alta en carbohidratos
+49,31,Masculino,77,Si,157,151,No,Negativo,158,123.3,Gestacional,67,70,13,Si,Moderada,No,Baja en protei要as
+50,20,Femenino,,Si,177.8,,No,Positivo,175,194.6,Tipo 2,94,64,15.9,No,Alta,Si,Alta en grasas
+51,18,Masculino,58,Si,184.3,156,Si,Negativo,151,221.2,Tipo 1,78,86,17.8,Si,Alta,No,Balanceada
+52,22,Masculino,52,No,144.3,163,No,Negativo,169,258.9,Tipo 2,89,71,15.4,No,Baja,No,Balanceada
+53,43,Masculino,74,No,137.3,129,No,Positivo,177,121.3,Ninguno,73,76,16.3,No,Ninguna,No,Balanceada
+54,72,Femenino,83,Si,126,136,No,Positivo,196,270.1,Tipo 2,79,65,,Si,Alta,No,Baja en protei要as
+55,31,Masculino,61,No,111.2,154,Si,Positivo,156,249.2,Tipo 2,84,92,14.5,No,Alta,No,Balanceada
+56,56,Femenino,91,No,126.5,118,Si,Positivo,193,181.7,Tipo 1,99,64,12.7,No,Alta,No,Alta en grasas
+57,44,Femenino,58,No,170.6,139,Si,Positivo,157,286.6,Ninguno,83,87,,No,Baja,Si,Alta en carbohidratos
+58,26,Masculino,64,No,148.3,102,Si,Negativo,196,,Gestacional,73,73,17.6,No,Moderada,Si,Baja en protei要as
+59,32,Masculino,89,Si,186,90,No,Positivo,184,141,Gestacional,85,64,16,Si,Alta,Si,Alta en carbohidratos
+60,32,Femenino,,No,127.6,123,Si,Negativo,163,175.8,Tipo 1,97,92,12.5,No,Baja,No,Balanceada
+61,43,Masculino,54,Si,148.9,,No,Negativo,166,285.3,Tipo 2,82,78,14.1,,Alta,Si,
+62,59,Masculino,60,Si,152.1,166,No,Positivo,185,244.3,Tipo 1,81,81,15.3,No,Ninguna,No,Balanceada
+63,77,Femenino,83,No,146.9,137,No,Negativo,199,109.6,Tipo 1,78,64,14.4,No,Baja,Si,Alta en grasas
+64,30,Femenino,73,Si,161.3,138,No,Negativo,189,256.3,Tipo 1,,61,17,No,Alta,Si,Alta en grasas
+65,68,Masculino,,No,100.9,153,Si,Positivo,153,265.6,Tipo 2,78,89,16.9,Si,Baja,No,Baja en protei要as
+66,49,Femenino,87,No,136.6,150,Si,Negativo,151,250.1,Ninguno,68,98,15.7,Si,Alta,No,Alta en carbohidratos
+67,56,Masculino,57,Si,83.5,,Si,Negativo,155,259.9,Tipo 1,87,63,14.2,Si,Moderada,Si,Balanceada
+68,66,Masculino,54,Si,120,128,Si,Negativo,191,265,Tipo 2,79,92,13.5,No,Alta,Si,Balanceada
+69,69,Masculino,97,Si,133.4,177,Si,Positivo,153,137.3,Ninguno,66,72,12.6,No,Baja,Si,Balanceada
+70,78,Femenino,75,Si,154.8,115,No,Positivo,178,147.1,,73,79,14.1,No,Ninguna,Si,Balanceada
+71,49,Masculino,67,No,193.6,106,Si,Positivo,167,226.8,Gestacional,68,66,14.5,No,Ninguna,No,Alta en grasas
+72,21,Masculino,55,No,148.1,160,Si,Negativo,175,281.6,Ninguno,78,74,16.1,Si,Ninguna,Si,Alta en carbohidratos
+73,47,Masculino,86,No,166.7,102,Si,Positivo,193,163.2,Tipo 1,73,82,15.9,No,Alta,No,Alta en carbohidratos
+74,54,Femenino,97,Si,135.8,158,Si,Negativo,183,217.7,Ninguno,97,73,12.4,Si,Moderada,No,Baja en protei要as
+75,40,Femenino,62,Si,152.4,115,No,Positivo,159,236.6,,,82,14.4,No,Alta,Si,Alta en grasas
+76,56,Femenino,77,Si,79.2,138,No,Negativo,185,190.4,Ninguno,99,78,13.1,Si,,No,Balanceada
+77,62,Femenino,54,No,103.1,156,No,Positivo,163,242.8,Ninguno,76,88,12.9,Si,Baja,Si,Alta en carbohidratos
+78,32,Femenino,62,Si,117,96,No,Positivo,180,279.9,Ninguno,89,79,17,No,Ninguna,No,Alta en carbohidratos
+79,60,Masculino,66,No,131.4,147,No,Negativo,197,224.8,Ninguno,68,88,12.3,No,Baja,No,Alta en grasas
+80,46,Femenino,99,Si,75.9,138,Si,Positivo,164,208,Tipo 1,92,83,14.5,Si,Moderada,Si,Baja en protei要as
+81,53,Femenino,89,No,88.2,142,No,Negativo,157,187.7,Gestacional,84,77,13,No,Baja,No,Baja en protei要as
+82,30,Femenino,94,No,106,154,No,Positivo,163,215.5,Tipo 2,73,69,17.3,No,Alta,No,Balanceada
+83,49,Masculino,,Si,196.3,151,No,Positivo,172,171.1,Ninguno,70,67,15.3,Si,Alta,Si,Baja en protei要as
+84,24,Femenino,78,Si,113.1,106,Si,Negativo,189,178.3,Tipo 2,94,85,13.4,Si,Alta,No,Alta en carbohidratos
+85,76,Femenino,52,No,132.7,132,Si,Negativo,170,206.4,Tipo 1,73,88,15,Si,Baja,No,Baja en protei要as
+86,68,Masculino,89,No,95.5,114,No,Negativo,165,113.3,Ninguno,89,69,16.4,Si,Alta,Si,Balanceada
+87,39,Femenino,83,Si,149.4,92,Si,Positivo,194,145.8,Gestacional,63,76,17.7,No,Alta,Si,Alta en carbohidratos
+88,45,Masculino,89,Si,106.5,168,Si,Negativo,167,208.6,Tipo 2,63,61,,Si,Alta,No,Baja en protei要as
+89,19,Masculino,76,No,96.9,118,No,Positivo,196,186.3,Ninguno,87,65,,Si,Moderada,No,Baja en protei要as
+90,59,Masculino,62,Si,137.2,121,Si,Negativo,173,166.6,Tipo 1,67,64,17.6,Si,Baja,No,Alta en grasas
+91,62,Masculino,94,No,70.7,115,Si,Negativo,175,246.1,Gestacional,61,87,17.5,No,Baja,Si,Balanceada
+92,79,Masculino,82,No,71,105,Si,Negativo,174,238.7,Tipo 2,81,64,15.8,Si,Ninguna,No,Baja en protei要as
+93,74,Femenino,55,Si,98.5,114,No,Negativo,194,133.3,Tipo 2,75,77,15.8,No,Baja,No,Alta en grasas
+94,70,Masculino,73,Si,74.8,143,No,Negativo,190,,Ninguno,88,85,14.4,,Moderada,No,
+95,23,Masculino,68,Si,84,117,No,Negativo,178,199.1,Gestacional,89,79,16.5,Si,Baja,No,Alta en grasas
+96,45,Femenino,65,Si,114.1,162,Si,Positivo,164,248.3,Gestacional,71,,15.2,No,Moderada,No,Alta en grasas
+97,45,Masculino,89,Si,174.3,145,No,Negativo,194,214.6,Gestacional,94,71,,Si,Moderada,No,Baja en protei要as
+98,61,Femenino,77,No,144.4,,Si,Positivo,150,299.5,Gestacional,70,66,14.6,Si,Baja,Si,Baja en protei要as
+99,61,Femenino,82,No,136.6,175,Si,Negativo,174,,Tipo 1,80,62,16.4,No,Ninguna,,Baja en protei要as
+100,37,Femenino,97,Si,108.2,169,Si,Negativo,156,,Gestacional,80,69,,Si,Alta,No,Alta en grasas
+101,47,Masculino,90,Si,191.1,130,No,Negativo,158,255.7,Tipo 2,64,93,12.9,Si,,No,Alta en carbohidratos
+102,79,Masculino,62,Si,121.6,140,No,Positivo,173,128.6,Tipo 2,79,84,17,Si,Baja,Si,Balanceada
+103,28,Masculino,92,No,81.3,160,No,Positivo,150,,,96,94,15.2,Si,Baja,Si,Alta en grasas
+104,75,Femenino,94,Si,150.2,167,No,Negativo,193,242.8,Tipo 2,62,75,17.1,No,Moderada,Si,Baja en protei要as
+105,72,Masculino,74,Si,84.8,118,Si,Positivo,157,198.8,Tipo 2,92,61,14.6,Si,Baja,No,Balanceada
+106,45,Masculino,91,No,114.9,172,No,Negativo,173,250.9,Gestacional,68,83,14.3,No,Moderada,No,Alta en carbohidratos
+107,42,Masculino,85,No,136,108,Si,Negativo,160,120.6,Tipo 2,68,69,17.5,Si,Ninguna,No,Balanceada
+108,56,Femenino,76,Si,183.6,155,No,Positivo,166,207.3,Tipo 1,63,97,13.5,,Baja,No,Baja en protei要as
+109,79,Femenino,87,Si,134.2,130,No,Positivo,157,175.8,Gestacional,94,81,17.1,Si,,Si,Alta en grasas
+110,50,Masculino,56,Si,161.3,134,No,Positivo,184,191.4,,76,85,14.9,No,Alta,Si,Alta en grasas
+111,18,Masculino,54,No,199.1,104,Si,Positivo,184,220.8,Gestacional,93,98,15.1,Si,Baja,Si,Baja en protei要as
+112,74,Masculino,92,Si,87.1,92,Si,Negativo,182,200.5,Tipo 1,83,86,13.9,No,Moderada,Si,Alta en grasas
+113,44,Masculino,94,Si,,100,Si,Positivo,154,208,,91,88,15.4,No,Alta,No,Baja en protei要as
+114,79,Femenino,80,Si,121.3,142,Si,Positivo,191,197.3,Gestacional,60,97,14,Si,Moderada,No,Alta en grasas
+115,74,Femenino,72,No,124.8,135,Si,Negativo,188,181.8,Tipo 1,67,79,12.2,,Baja,Si,Alta en grasas
+116,69,Femenino,91,No,123.4,119,No,Positivo,,254.4,Gestacional,,86,,Si,Baja,Si,
+117,30,Femenino,59,Si,188,146,Si,Positivo,177,102.4,Tipo 1,99,79,12,Si,Alta,Si,Alta en carbohidratos
+118,58,Masculino,81,Si,162.8,107,Si,Positivo,156,219.7,Tipo 1,71,78,17.9,Si,Baja,Si,Alta en carbohidratos
+119,20,Masculino,92,No,149,140,Si,Positivo,158,213.1,Ninguno,71,79,,Si,Ninguna,Si,Baja en protei要as
+120,56,Masculino,79,No,110.2,137,Si,Negativo,157,243.2,Tipo 2,74,94,14.4,Si,Ninguna,No,Alta en carbohidratos
+121,23,Femenino,88,No,177.1,,No,Negativo,161,219.8,Tipo 2,78,61,16.4,No,Alta,No,Baja en protei要as
+122,25,Masculino,80,No,194.2,97,Si,Positivo,183,265.4,Gestacional,85,89,14.1,Si,Ninguna,Si,Balanceada
+123,44,Femenino,67,No,176.8,111,No,Positivo,182,291.8,Gestacional,,93,16,Si,Moderada,Si,Balanceada
+124,26,Femenino,85,No,70.2,,No,Negativo,197,168.5,,81,81,16.8,Si,,Si,Alta en carbohidratos
+125,79,Masculino,51,No,152.7,165,No,Positivo,172,145.5,Ninguno,99,,17.7,Si,Alta,No,Balanceada
+126,54,Masculino,63,No,76.6,146,Si,Positivo,173,184.7,,80,65,14.4,,Moderada,No,Balanceada
+127,50,Masculino,62,No,103.5,125,No,Positivo,186,157.6,,97,74,16.7,Si,Ninguna,No,Alta en grasas
+128,68,Femenino,78,Si,,168,Si,Positivo,184,223,Ninguno,79,86,13.6,No,Ninguna,Si,Alta en grasas
+129,59,Masculino,61,Si,148.5,146,Si,Positivo,193,282.4,Ninguno,88,,17.9,No,Ninguna,No,Baja en protei要as
+130,61,Femenino,88,Si,159.3,138,Si,Positivo,189,127.8,Gestacional,63,68,12.2,Si,Alta,Si,Balanceada
+131,41,Masculino,51,No,84.9,,Si,Positivo,171,120.2,Ninguno,66,92,15.6,No,Alta,No,Baja en protei要as
+132,32,Femenino,81,Si,119.9,171,Si,Positivo,176,151.2,Tipo 1,87,91,,Si,Ninguna,,Baja en protei要as
+133,76,Femenino,62,No,129.3,155,No,Positivo,184,245.2,Tipo 1,87,65,16.1,Si,Baja,No,Balanceada
+134,71,Masculino,95,No,118,166,No,Negativo,,218.6,Gestacional,63,95,12.7,Si,Ninguna,Si,Alta en carbohidratos
+135,49,Femenino,76,Si,85.7,134,Si,Negativo,184,120.4,Ninguno,81,,17.6,Si,Moderada,Si,Balanceada
+136,49,Femenino,,No,124.5,168,No,Negativo,186,283.8,Ninguno,71,88,13.1,Si,Alta,No,Alta en grasas
+137,41,Masculino,90,Si,167.7,109,Si,Positivo,196,258,Tipo 1,62,63,15.7,No,Moderada,Si,Balanceada
+138,58,Femenino,66,Si,79.2,153,No,Positivo,163,104.6,,81,,13.3,No,Moderada,Si,Alta en carbohidratos
+139,69,Masculino,89,Si,80.4,156,No,Negativo,152,230.3,Ninguno,61,78,13.8,,Alta,Si,Baja en protei要as
+140,66,Femenino,80,No,116.1,172,No,Positivo,150,254.2,Ninguno,83,,,No,Baja,,Baja en protei要as
+141,79,Masculino,83,Si,192.4,92,No,Negativo,154,174.9,Tipo 2,93,84,,,Ninguna,Si,Alta en grasas
+142,66,Masculino,,No,156.9,143,No,Positivo,175,113.8,Gestacional,86,69,13,No,Moderada,Si,Alta en grasas
+143,75,Femenino,94,Si,158.2,167,Si,Negativo,163,115.5,Tipo 2,60,74,13,Si,,Si,Alta en grasas
+144,69,Femenino,84,Si,117,153,Si,Negativo,188,120.8,Gestacional,67,81,14.5,No,,No,Baja en protei要as
+145,29,Femenino,97,Si,,129,No,Negativo,176,268.1,Tipo 1,82,80,16.5,No,Ninguna,Si,Alta en grasas
+146,79,Femenino,55,No,71.3,148,Si,Positivo,158,282.1,Ninguno,97,81,17.4,No,Baja,Si,Balanceada
+147,56,Femenino,68,No,152.7,144,No,Negativo,164,124.6,Gestacional,65,95,12.5,No,Baja,No,Baja en protei要as
+148,19,Masculino,79,No,188.7,151,Si,Positivo,164,147.2,Tipo 2,,93,14.4,Si,Baja,No,Alta en carbohidratos
+149,20,Femenino,56,Si,149.6,93,No,Positivo,175,133.1,Ninguno,84,89,12.6,No,Alta,No,Baja en protei要as
+150,66,Masculino,59,Si,183.6,149,No,Positivo,191,,Tipo 1,77,84,12.1,No,Alta,No,Balanceada
+151,54,Masculino,90,No,164.1,164,No,Positivo,162,267.5,Gestacional,76,87,16,Si,Baja,Si,
+152,66,Femenino,81,No,,119,Si,Positivo,181,166.4,Gestacional,71,60,15.6,Si,Ninguna,No,Alta en grasas
+153,73,Masculino,83,No,187.3,91,Si,Positivo,188,162.3,,65,63,13,No,Ninguna,No,Baja en protei要as
+154,34,Masculino,77,No,78.6,151,No,Positivo,198,145.5,Ninguno,85,66,13.4,Si,Alta,Si,Baja en protei要as
+155,76,Masculino,64,No,139.4,138,No,Negativo,181,221.6,Tipo 2,86,68,12.1,Si,Baja,Si,
+156,66,Masculino,79,No,88.5,98,Si,Negativo,153,175.9,Tipo 2,67,95,17,Si,Ninguna,Si,Alta en carbohidratos
+157,19,Femenino,86,Si,71.5,120,Si,Negativo,179,248.8,Gestacional,78,78,17.8,No,Ninguna,No,Alta en grasas
+158,19,Masculino,78,No,124.9,150,Si,Positivo,186,141.1,Tipo 1,60,60,12.8,Si,Ninguna,Si,Balanceada
+159,45,Femenino,71,Si,108.4,168,Si,Positivo,172,257.6,Tipo 1,88,69,13.4,No,Alta,No,
+160,71,Femenino,53,Si,133.2,137,Si,Positivo,188,220.7,Tipo 2,94,95,17.2,No,Baja,Si,Alta en grasas
+161,40,Masculino,69,No,145,114,No,Positivo,194,122.9,Tipo 1,99,68,17.6,No,Moderada,Si,Balanceada
+162,54,Femenino,81,No,75.7,125,Si,Negativo,164,182.9,Tipo 2,73,91,14.5,No,Baja,No,Balanceada
+163,49,Femenino,,Si,86,97,No,Positivo,192,272.7,Gestacional,94,91,12.3,Si,Baja,Si,Alta en grasas
+164,50,Femenino,99,No,142.6,162,No,Negativo,178,284.6,Tipo 2,,65,12.2,,Alta,Si,Balanceada
+165,18,Masculino,53,No,114.6,147,Si,Positivo,185,193.1,Tipo 2,72,97,15.4,Si,Ninguna,Si,Baja en protei要as
+166,36,Femenino,76,Si,164.8,134,Si,Negativo,162,196.2,Gestacional,97,76,14.4,No,Ninguna,Si,Alta en carbohidratos
+167,79,Femenino,66,Si,154.8,151,No,Positivo,181,283.7,Tipo 1,67,,12.2,Si,Alta,Si,
+168,19,Femenino,61,Si,179.9,128,Si,Negativo,156,217.4,Tipo 2,79,86,15.5,No,Alta,No,Alta en carbohidratos
+169,70,Masculino,71,No,160,147,No,Positivo,171,106.6,Tipo 2,92,,12.1,Si,Alta,No,Balanceada
+170,61,Femenino,66,Si,,170,Si,Negativo,177,282.5,Gestacional,85,80,16.7,No,Alta,Si,Balanceada
+171,43,Masculino,59,No,157.5,172,Si,Positivo,151,149.6,Tipo 1,98,84,13.8,No,Alta,No,Baja en protei要as
+172,49,Masculino,50,Si,105.8,153,Si,Negativo,191,215.5,Tipo 2,80,87,12.2,Si,Moderada,No,Alta en grasas
+173,23,Masculino,,Si,109.8,133,No,Negativo,194,133.1,Gestacional,68,74,15.5,,Baja,No,Balanceada
+174,49,Masculino,75,Si,172.6,118,Si,Positivo,155,106.8,Tipo 2,83,63,14.4,,Baja,Si,Alta en grasas
+175,72,Masculino,67,No,128,148,No,Negativo,177,162.3,Ninguno,96,88,17.8,No,Baja,Si,Alta en grasas
+176,21,Masculino,99,No,173.8,160,Si,Positivo,177,,Gestacional,76,68,15.3,Si,Ninguna,Si,Alta en grasas
+177,72,Femenino,63,Si,176.9,98,No,Positivo,193,,Tipo 1,83,86,13.7,No,Moderada,No,Alta en grasas
+178,28,Masculino,96,Si,181.5,95,Si,Positivo,193,144,Tipo 1,80,85,16.3,No,Baja,No,Alta en grasas
+179,73,Femenino,78,Si,,118,No,Negativo,169,142.5,Tipo 1,98,78,13.6,Si,Ninguna,Si,Alta en carbohidratos
+180,76,Femenino,61,No,126,147,No,Negativo,179,203,Tipo 1,98,87,17.4,Si,Moderada,Si,Baja en protei要as
+181,34,Masculino,85,Si,111.5,106,No,Positivo,160,295.1,Tipo 2,72,76,14.2,Si,Moderada,No,Alta en grasas
+182,55,Femenino,84,No,145.7,105,No,Positivo,177,191.8,Tipo 2,70,79,15.3,,Ninguna,No,Alta en carbohidratos
+183,41,Femenino,61,Si,118.3,176,No,Negativo,174,211.5,Tipo 1,78,99,12.3,Si,Moderada,Si,
+184,22,Femenino,56,Si,148.1,92,No,Negativo,188,272.1,Tipo 1,70,98,14.6,No,Ninguna,No,Alta en grasas
+185,69,Femenino,78,Si,161.7,110,Si,Negativo,,207,Tipo 1,72,82,17,,Baja,No,Balanceada
+186,51,Masculino,60,Si,159.5,153,No,Positivo,150,,Tipo 2,60,91,16.8,No,Ninguna,No,Alta en grasas
+187,23,Femenino,82,Si,118.7,179,No,Positivo,176,159.9,Tipo 1,99,92,13.3,,Moderada,No,Alta en carbohidratos
+188,39,Masculino,55,Si,91.7,125,No,Positivo,162,162,Tipo 1,78,64,13.4,No,Baja,,Alta en carbohidratos
+189,28,Femenino,96,No,126,175,Si,Positivo,190,179.5,Ninguno,,93,16.9,Si,Baja,No,Alta en carbohidratos
+190,65,Femenino,64,Si,,,Si,Positivo,152,185.4,Ninguno,67,99,17.6,Si,Alta,No,Baja en protei要as
+191,33,Masculino,81,No,185.7,131,Si,Negativo,188,260,Tipo 1,67,70,12.6,No,Alta,,Balanceada
+192,50,Femenino,60,Si,115,165,No,Positivo,155,169.9,Gestacional,,62,14.7,Si,Moderada,Si,Baja en protei要as
+193,26,Femenino,72,Si,90.1,131,Si,Negativo,157,193.6,Tipo 1,92,92,14,Si,Ninguna,No,Alta en grasas
+194,77,Femenino,75,No,73.3,150,Si,Negativo,176,225,Ninguno,85,70,17.2,No,Ninguna,No,Balanceada
+195,76,Masculino,,Si,154,,No,Positivo,158,175.5,Gestacional,98,75,12.5,Si,Moderada,No,Alta en carbohidratos
+196,23,Femenino,95,No,152.8,100,No,Negativo,186,267.3,Gestacional,87,77,13.3,Si,Baja,Si,Balanceada
+197,33,Masculino,83,No,114.3,143,Si,Positivo,182,217.5,Tipo 1,64,89,16.5,No,Moderada,Si,Alta en carbohidratos
+198,46,Femenino,78,Si,79.3,105,No,Negativo,191,,Ninguno,67,69,12.3,Si,Moderada,No,Baja en protei要as
+199,20,Masculino,53,No,123.3,97,No,Positivo,193,242.8,Ninguno,84,77,15,Si,Baja,Si,Baja en protei要as
+200,37,Masculino,66,No,110.5,148,No,Positivo,173,205.5,Gestacional,86,97,14.7,No,Ninguna,No,Alta en carbohidratos
+201,77,Femenino,84,Si,158,146,No,Negativo,164,206.9,Tipo 1,82,78,14,No,Moderada,No,Alta en carbohidratos
+202,76,Femenino,62,No,148.8,129,Si,Positivo,181,196.2,Tipo 2,89,95,14.4,No,Ninguna,No,Alta en grasas
+203,53,Masculino,90,Si,,148,No,Negativo,181,199.4,Tipo 2,82,72,15.2,No,Moderada,No,Baja en protei要as
+204,36,Masculino,88,Si,98.3,91,Si,Positivo,173,253.1,Ninguno,79,62,13,Si,Baja,No,Baja en protei要as
+205,43,Femenino,64,Si,198.4,165,Si,Positivo,190,120.6,Tipo 2,77,69,15.4,Si,Baja,No,Alta en grasas
+206,20,Masculino,78,Si,129,,Si,Positivo,198,166.9,Ninguno,77,97,16.8,No,Alta,No,Baja en protei要as
+207,36,Femenino,78,No,159.5,133,Si,Negativo,198,115.1,Ninguno,61,60,16.6,Si,Baja,Si,Alta en carbohidratos
+208,37,Femenino,,Si,88.3,100,No,Negativo,161,250.6,Ninguno,63,,12.9,Si,Alta,No,Balanceada
+209,49,Femenino,81,Si,133.1,168,No,Positivo,188,154.5,Tipo 2,89,67,12.9,No,Moderada,Si,
+210,24,Femenino,51,No,73.6,169,No,Negativo,151,279.5,Ninguno,92,76,13.6,No,Ninguna,No,Baja en protei要as
+211,69,Masculino,96,Si,135.7,170,Si,Positivo,152,205.3,Gestacional,95,68,14.2,Si,Baja,No,Alta en grasas
+212,58,Femenino,63,Si,195.3,179,Si,Negativo,,260.1,Tipo 1,77,65,14.5,No,Baja,Si,Alta en carbohidratos
+213,50,Masculino,69,No,,91,Si,Negativo,186,295.8,Tipo 1,,84,16.1,No,Baja,Si,Balanceada
+214,57,Femenino,71,No,75.1,139,No,Positivo,198,268,Ninguno,78,98,12.3,No,Moderada,No,Alta en carbohidratos
+215,56,Masculino,60,No,74,101,Si,Positivo,166,273.4,Tipo 1,87,87,12.2,Si,Alta,Si,Baja en protei要as
+216,35,Femenino,76,No,120.4,179,No,Positivo,198,181.6,Tipo 2,99,92,14.4,No,Moderada,No,Baja en protei要as
+217,57,Masculino,52,No,90.8,112,No,Positivo,151,210.3,Tipo 2,79,96,16.2,Si,Ninguna,No,Balanceada
+218,18,Masculino,66,No,73,107,No,Positivo,151,150.8,Tipo 1,92,68,13.2,Si,Moderada,Si,Baja en protei要as
+219,28,Femenino,93,No,168.3,151,No,Negativo,177,139.2,Tipo 2,71,77,15.8,Si,Ninguna,Si,Alta en grasas
+220,45,Femenino,77,Si,129.6,151,Si,Negativo,172,201.1,Tipo 1,,80,13.6,No,Baja,Si,Baja en protei要as
+221,74,Femenino,78,No,107.6,127,No,Positivo,186,219,Tipo 1,98,61,17.3,No,,Si,Baja en protei要as
+222,42,Femenino,,No,187,156,Si,Positivo,181,167.9,,61,97,17.4,,Ninguna,No,Baja en protei要as
+223,67,Masculino,96,No,85.1,127,No,Positivo,182,213.9,Ninguno,88,,13.8,No,Alta,Si,Alta en carbohidratos
+224,40,Femenino,65,Si,194.3,156,Si,Negativo,150,277.5,Tipo 1,69,95,13.4,No,Ninguna,Si,
+225,48,Masculino,86,Si,110.8,150,Si,Positivo,168,211.3,Ninguno,61,96,14.5,Si,Ninguna,Si,Balanceada
+226,47,Masculino,69,No,185.5,90,No,Positivo,151,244.2,Tipo 1,70,74,13.4,Si,Moderada,Si,Balanceada
+227,59,Femenino,55,No,148.4,134,No,Negativo,,,Tipo 1,72,87,16,Si,Baja,Si,
+228,52,Masculino,68,No,177.5,117,No,Negativo,175,297.7,Tipo 1,69,77,17,No,Moderada,No,Baja en protei要as
+229,24,Masculino,54,Si,197.9,110,Si,Negativo,181,220.6,Tipo 2,73,93,16,Si,Moderada,No,Alta en carbohidratos
+230,77,Masculino,52,Si,107.5,102,No,Negativo,155,261.4,Ninguno,77,81,16.9,Si,Baja,Si,Alta en grasas
+231,33,Masculino,50,No,194.9,116,No,Positivo,181,292.5,Ninguno,68,70,14.4,No,Baja,Si,Baja en protei要as
+232,43,Femenino,87,Si,120.6,96,Si,Negativo,,288.9,Tipo 1,98,72,,No,,No,Baja en protei要as
+233,65,Femenino,64,No,120.1,111,No,Negativo,160,128.2,Tipo 1,87,63,16.4,Si,Ninguna,Si,Baja en protei要as
+234,74,Femenino,,Si,114.3,163,Si,Positivo,166,181.3,Tipo 2,62,81,14.2,Si,Alta,No,Alta en grasas
+235,69,Femenino,84,Si,140.4,142,No,Positivo,187,164.8,Tipo 2,79,66,16,No,Moderada,No,Balanceada
+236,77,Masculino,98,No,90,168,Si,Positivo,173,117.4,Tipo 2,65,83,13.6,,Baja,Si,Alta en grasas
+237,66,Masculino,74,No,142,168,Si,Negativo,154,226.6,Ninguno,86,63,12.5,No,,No,Balanceada
+238,19,Femenino,73,No,140.4,93,No,Positivo,183,,Ninguno,61,87,18,No,Baja,Si,Alta en grasas
+239,18,Femenino,61,No,,112,Si,Negativo,155,269.6,Ninguno,88,74,12.9,Si,Ninguna,Si,Alta en carbohidratos
+240,65,Femenino,,Si,,159,No,Negativo,171,124.6,Tipo 1,97,60,17.9,Si,Alta,No,Baja en protei要as
+241,79,Masculino,64,Si,127.3,177,No,Negativo,160,275.3,,62,62,17.9,No,Alta,No,Baja en protei要as
+242,29,Femenino,93,Si,109.3,173,Si,Positivo,197,,Gestacional,75,73,16.8,Si,Baja,Si,Baja en protei要as
+243,22,Femenino,65,No,103.7,173,No,Negativo,165,240.8,Gestacional,89,97,16,Si,Alta,No,Balanceada
+244,54,Femenino,76,Si,95.3,165,Si,Positivo,182,282.1,Tipo 2,99,60,15.5,No,Baja,Si,Alta en grasas
+245,49,Masculino,57,No,77.5,122,Si,Positivo,158,225,Ninguno,61,97,17.2,Si,Ninguna,No,Alta en carbohidratos
+246,76,Masculino,95,Si,114.5,117,Si,Positivo,155,,Gestacional,76,97,,Si,Moderada,No,Alta en grasas
+247,72,Masculino,74,No,105.1,97,Si,Negativo,165,265,Tipo 2,71,80,14.8,Si,Alta,Si,Baja en protei要as
+248,26,Masculino,66,No,195.6,90,Si,Negativo,178,172.6,Ninguno,94,88,15.7,No,Ninguna,Si,Alta en carbohidratos
+249,58,Masculino,78,Si,142.5,126,Si,Negativo,152,106.8,Tipo 1,,64,14.5,No,Moderada,Si,Alta en carbohidratos
+250,52,Masculino,57,No,115.1,152,Si,Positivo,169,266.1,Gestacional,74,69,14.6,Si,Moderada,No,Baja en protei要as
+251,36,Masculino,64,No,145.5,111,Si,Negativo,,169,Tipo 1,85,87,14,No,Moderada,Si,Alta en grasas
+252,65,Masculino,76,Si,,159,No,Negativo,168,,Ninguno,96,80,15.4,No,Ninguna,Si,Baja en protei要as
+253,33,Femenino,95,No,127.7,110,No,Negativo,175,172.6,Gestacional,80,66,,No,Ninguna,No,Alta en grasas
+254,20,Femenino,99,No,151.4,124,Si,Negativo,152,272.2,Ninguno,90,62,13.2,Si,Baja,No,Alta en carbohidratos
+255,37,Masculino,56,No,133.6,,No,Negativo,168,143.9,Tipo 1,84,79,17.6,Si,Moderada,Si,Alta en carbohidratos
+256,41,Masculino,52,Si,122.2,,No,Positivo,169,294.9,Gestacional,82,78,16.1,No,Moderada,Si,Baja en protei要as
+257,71,Femenino,78,Si,199.2,149,No,Positivo,181,256,Tipo 1,83,94,16.9,Si,Moderada,Si,Alta en carbohidratos
+258,73,Masculino,93,No,184.4,135,No,Positivo,156,122.8,Ninguno,97,63,15.3,Si,Baja,Si,Balanceada
+259,50,Masculino,73,Si,151,139,No,Positivo,190,213.2,Ninguno,87,64,16.7,Si,Moderada,No,
+260,41,Masculino,52,No,144,,No,Negativo,182,297.1,Tipo 1,80,60,12.1,Si,Ninguna,No,Balanceada
+261,69,Femenino,69,No,150.7,95,Si,Positivo,189,194.2,Gestacional,77,63,16.9,Si,Moderada,Si,Alta en carbohidratos
+262,28,Femenino,95,No,96.2,178,No,Negativo,188,136.4,Tipo 1,95,71,12.2,No,Alta,Si,Baja en protei要as
+263,66,Femenino,64,No,121.4,145,No,Positivo,167,197,,94,,17.3,Si,Ninguna,Si,Baja en protei要as
+264,25,Femenino,74,No,75.1,,No,Positivo,189,202.5,Tipo 1,68,82,18,Si,Baja,,Balanceada
+265,53,Femenino,79,Si,,118,No,Positivo,150,248.3,Ninguno,97,84,13.8,Si,Moderada,Si,Baja en protei要as
+266,55,Masculino,63,No,,160,Si,Negativo,160,239.8,Tipo 1,89,80,13.3,No,Alta,Si,Alta en carbohidratos
+267,57,Femenino,56,Si,99.6,166,Si,Negativo,177,180.5,Gestacional,93,83,16.6,No,Baja,No,
+268,37,Masculino,66,Si,195.3,107,Si,Positivo,174,143.6,Gestacional,91,84,13.5,No,Baja,No,Baja en protei要as
+269,79,Masculino,93,No,188.2,91,Si,Negativo,199,229,Tipo 1,62,91,17.2,,Ninguna,Si,Alta en carbohidratos
+270,52,Femenino,,No,163.9,97,No,Positivo,172,184.3,Tipo 1,62,91,12.6,No,Baja,Si,Alta en grasas
+271,65,Femenino,85,Si,139.3,164,Si,Positivo,180,126.5,Gestacional,87,64,12.8,No,Baja,No,Alta en grasas
+272,79,Masculino,,Si,183.1,143,Si,Positivo,179,280.1,Ninguno,74,95,17.9,No,Baja,Si,Alta en carbohidratos
+273,42,Masculino,87,Si,87,127,Si,Negativo,191,238.2,Gestacional,82,98,16,No,Baja,Si,
+274,52,Masculino,97,No,,137,Si,Positivo,184,236.6,Ninguno,99,75,17.1,Si,Moderada,No,Balanceada
+275,42,Femenino,71,Si,86.2,116,No,Positivo,156,264.5,Tipo 1,70,92,13.9,No,Moderada,No,Baja en protei要as
+276,46,Femenino,51,No,173.2,109,Si,Positivo,165,205.9,Tipo 1,91,80,16.1,No,Moderada,No,Balanceada
+277,35,Femenino,73,No,105.8,101,No,Negativo,175,263,Ninguno,95,68,,Si,Moderada,Si,Baja en protei要as
+278,63,Femenino,57,No,184,132,Si,Positivo,197,199.6,Tipo 1,92,65,15.6,Si,Alta,No,Alta en carbohidratos
+279,35,Femenino,60,Si,192.7,,No,Negativo,198,113.4,Ninguno,83,94,16.1,No,Moderada,No,Alta en grasas
+280,19,Masculino,62,No,89.3,,No,Positivo,151,181,Tipo 2,98,98,15.5,Si,Baja,Si,Baja en protei要as
+281,71,Femenino,66,No,130.1,150,Si,Negativo,150,199.5,Gestacional,93,81,14.6,No,Moderada,Si,Balanceada
+282,52,Masculino,57,No,197.5,,Si,Positivo,197,244,Tipo 2,87,64,13.7,Si,Moderada,No,Alta en grasas
+283,33,Masculino,70,No,132.8,156,Si,Positivo,161,121.3,Ninguno,96,82,16.6,Si,Ninguna,No,Balanceada
+284,78,Masculino,67,No,182.3,124,Si,Negativo,,128,Gestacional,66,76,13.4,No,Baja,Si,
+285,58,Femenino,79,Si,146.5,104,No,Negativo,186,,Ninguno,63,71,16.2,Si,Moderada,Si,Alta en grasas
+286,53,Femenino,67,No,118.8,105,No,Positivo,181,153.3,Gestacional,96,82,13.4,No,Moderada,No,
+287,50,Femenino,95,No,107.2,102,Si,Negativo,158,,Gestacional,60,75,15.8,Si,Moderada,No,Baja en protei要as
+288,21,Masculino,96,Si,96.4,124,Si,Positivo,190,150.1,Gestacional,60,62,16.5,No,Alta,Si,Alta en carbohidratos
+289,50,Masculino,80,No,169,164,No,Positivo,184,226.6,Gestacional,79,89,13.3,Si,Moderada,No,
+290,31,Masculino,87,Si,120.3,148,Si,Positivo,168,198.9,Ninguno,78,81,12.4,Si,Ninguna,Si,Alta en carbohidratos
+291,38,Masculino,,No,136.5,110,No,Negativo,197,214.7,Gestacional,88,,12.8,Si,Baja,No,Baja en protei要as
+292,65,Masculino,60,Si,134,143,Si,Positivo,165,267.6,Gestacional,69,88,15.6,Si,Baja,Si,Baja en protei要as
+293,37,Masculino,94,Si,145,164,No,Negativo,152,180.9,Tipo 2,77,96,17.1,Si,Moderada,Si,Alta en grasas
+294,73,Femenino,74,No,182.5,,No,Positivo,169,254.2,Tipo 1,87,82,12.3,No,Moderada,No,Baja en protei要as
+295,25,Femenino,,No,197.5,137,No,Negativo,173,,Tipo 1,,72,16.4,Si,Moderada,No,Alta en grasas
+296,24,Femenino,87,No,123,124,No,Negativo,182,170.8,Tipo 2,90,91,14,No,Baja,Si,Alta en carbohidratos
+297,20,Femenino,90,Si,177.6,175,No,Positivo,173,,Tipo 2,86,82,14.9,No,Baja,No,Alta en grasas
+298,34,Masculino,57,Si,169.4,127,Si,Negativo,160,136.9,Ninguno,70,76,17.6,No,Alta,,Balanceada
+299,50,Masculino,60,Si,144.6,120,No,Positivo,198,118.1,Ninguno,97,99,14,Si,Ninguna,No,Alta en carbohidratos
+300,65,Femenino,71,No,194.3,167,Si,Positivo,157,254.2,Ninguno,64,80,14.8,No,Alta,Si,Alta en carbohidratos
+301,29,Masculino,73,Si,96.1,113,No,Positivo,185,113.6,Tipo 2,67,61,12.1,Si,Ninguna,No,Alta en grasas
+302,76,Femenino,90,Si,84.2,138,No,Positivo,187,267.4,Tipo 2,93,96,12.5,No,Alta,No,Alta en carbohidratos
+303,68,Femenino,66,No,181,121,Si,Positivo,189,187.4,Gestacional,71,65,13.6,No,Baja,Si,Baja en protei要as
+304,39,Femenino,61,Si,127.1,144,Si,Negativo,169,,Ninguno,97,77,12.2,No,Alta,No,Balanceada
+305,72,Masculino,95,Si,180.1,168,Si,Positivo,184,244.3,,60,89,15.8,No,Ninguna,,Alta en grasas
+306,39,Femenino,81,No,186.1,147,Si,Negativo,197,222.1,Ninguno,90,81,14.6,No,Moderada,Si,Alta en grasas
+307,63,Femenino,64,Si,78.1,92,No,Negativo,174,289.9,Tipo 1,63,92,15.3,Si,Ninguna,Si,Alta en carbohidratos
+308,47,Femenino,65,No,184.9,169,Si,Positivo,184,179.3,Gestacional,64,89,13,No,Moderada,No,Baja en protei要as
+309,55,Masculino,71,No,128.3,158,No,Negativo,174,290.8,Ninguno,,,13.8,No,,No,Alta en carbohidratos
+310,55,Masculino,77,No,136.4,174,Si,Positivo,178,,Ninguno,,91,16,Si,Ninguna,Si,Alta en carbohidratos
+311,62,Femenino,69,No,151.5,99,Si,Negativo,167,196.8,Ninguno,62,73,17.8,Si,Alta,Si,Alta en grasas
+312,68,Masculino,82,No,190.4,,No,Negativo,195,154,Tipo 1,70,69,12.3,Si,Ninguna,,Alta en carbohidratos
+313,71,Masculino,59,Si,72.5,114,No,Negativo,167,208,Tipo 1,63,95,17.3,No,Moderada,No,
+314,25,Masculino,89,Si,132,157,Si,Positivo,,132.4,Tipo 2,85,93,15.5,No,Baja,No,Alta en carbohidratos
+315,44,Masculino,81,No,159.4,150,No,Negativo,184,268.3,Gestacional,86,68,15.4,No,Alta,Si,Alta en carbohidratos
+316,44,Masculino,,No,164,118,No,Positivo,165,269.3,Tipo 2,86,87,15,No,Ninguna,No,Alta en grasas
+317,51,Masculino,82,Si,160,108,No,Negativo,190,291,Gestacional,65,70,12.4,No,,Si,Alta en carbohidratos
+318,38,Masculino,51,No,87.5,132,No,Negativo,,130.9,Tipo 1,74,73,12.5,No,Alta,Si,Baja en protei要as
+319,47,Masculino,82,No,108.9,155,No,Negativo,182,224.7,Ninguno,89,,15.6,Si,Baja,Si,Alta en grasas
+320,50,Masculino,,No,116.6,163,No,Negativo,153,194.8,Tipo 2,96,78,14,Si,Alta,No,Alta en carbohidratos
+321,45,Masculino,90,Si,174.6,150,No,Positivo,182,168.9,Ninguno,96,74,17.5,No,,No,Balanceada
+322,64,Femenino,62,Si,106.2,132,No,Positivo,163,170.3,Tipo 2,96,87,14.4,No,,No,Balanceada
+323,50,Femenino,79,No,97.4,114,Si,Negativo,170,182.6,Tipo 1,94,83,12.9,No,Ninguna,Si,Alta en grasas
+324,22,Masculino,82,No,194.5,109,No,Negativo,197,241,Tipo 1,82,67,16.3,,Moderada,No,Alta en grasas
+325,77,Femenino,62,Si,71.2,137,Si,Positivo,169,219.7,Tipo 1,65,68,13.8,,Ninguna,Si,Alta en carbohidratos
+326,78,Femenino,75,Si,199.7,172,No,Positivo,157,191.9,Tipo 2,63,,15.2,Si,Ninguna,,Baja en protei要as
+327,65,Masculino,71,No,158,176,No,Positivo,156,115.2,Gestacional,77,92,16.2,Si,,Si,Alta en carbohidratos
+328,36,Masculino,88,No,177.7,113,No,Positivo,152,,Tipo 2,68,78,17.4,No,Baja,Si,Balanceada
+329,21,Masculino,51,Si,108.3,100,No,Negativo,166,100.5,Gestacional,88,62,16.8,Si,Baja,Si,Baja en protei要as
+330,52,Femenino,87,Si,71.9,144,Si,Negativo,182,293.5,Tipo 2,72,69,16.1,No,Ninguna,Si,Baja en protei要as
+331,66,Femenino,88,Si,165.9,117,Si,Positivo,197,101.1,Tipo 2,76,99,,No,Alta,No,Baja en protei要as
+332,34,Masculino,75,No,178.4,158,No,Positivo,161,120.6,Tipo 1,91,60,17.7,No,Alta,Si,Alta en carbohidratos
+333,61,Masculino,95,Si,166.3,152,Si,Positivo,171,162.9,,81,88,13.8,Si,Ninguna,No,Balanceada
+334,45,Masculino,99,No,88.6,148,No,Positivo,171,,Ninguno,63,93,12,Si,Ninguna,Si,Alta en grasas
+335,47,Femenino,,Si,167.9,94,No,Positivo,195,,Gestacional,64,72,13.6,No,Moderada,No,Alta en carbohidratos
+336,46,Femenino,83,Si,170,140,Si,Positivo,179,258,Ninguno,96,60,13.3,Si,,No,Alta en grasas
+337,63,Femenino,91,Si,155.6,110,Si,Negativo,187,238.1,Tipo 2,72,93,16,Si,Baja,,Baja en protei要as
+338,70,Femenino,93,Si,169.6,101,No,Negativo,187,204.3,Tipo 2,93,88,15.8,No,Ninguna,No,Baja en protei要as
+339,23,Masculino,98,No,180,139,No,Negativo,194,117.3,Tipo 1,81,,15.6,Si,Ninguna,Si,Alta en carbohidratos
+340,52,Masculino,89,No,149.8,93,Si,Positivo,157,291.6,Tipo 1,82,88,,Si,Alta,Si,Balanceada
+341,77,Masculino,60,Si,81.5,131,No,Positivo,176,251.7,Ninguno,62,98,16.4,No,Ninguna,Si,Baja en protei要as
+342,58,Masculino,,No,133.4,173,Si,Positivo,176,227.8,Gestacional,93,83,13.9,No,Alta,Si,Alta en grasas
+343,54,Femenino,55,Si,80.1,127,No,Negativo,183,251.8,Ninguno,91,85,16,Si,Ninguna,No,Alta en grasas
+344,41,Femenino,58,Si,123,114,No,Positivo,170,244.8,Ninguno,80,76,15.3,No,Moderada,No,Alta en carbohidratos
+345,46,Masculino,55,Si,122.9,103,Si,Positivo,179,227.4,Ninguno,80,66,14.1,,Moderada,No,Alta en grasas
+346,66,Masculino,58,Si,78.6,164,Si,Negativo,182,,Ninguno,70,72,12.8,No,Alta,Si,Balanceada
+347,63,Femenino,,No,115.3,121,Si,Positivo,177,280.7,Tipo 2,98,64,12.6,No,Baja,No,Baja en protei要as
+348,70,Masculino,80,Si,84.4,100,No,Negativo,196,229.3,Gestacional,63,85,17,No,Moderada,Si,Alta en grasas
+349,48,Femenino,,Si,175.1,150,No,Negativo,182,238.6,Tipo 2,60,62,17.5,No,Alta,No,Alta en grasas
+350,52,Masculino,90,No,193.2,107,No,Positivo,154,110.3,Gestacional,87,66,15.9,Si,Ninguna,No,Baja en protei要as
+351,77,Masculino,99,Si,79.4,116,No,Negativo,197,234,Tipo 1,83,98,12.6,No,Ninguna,No,Alta en carbohidratos
+352,50,Masculino,61,Si,194.2,144,Si,Positivo,168,108.8,Ninguno,94,60,14.4,No,Alta,No,Alta en grasas
+353,69,Masculino,57,Si,137.9,143,No,Negativo,153,217.7,Tipo 2,72,76,16.4,No,Baja,No,Alta en carbohidratos
+354,78,Masculino,57,No,108.9,171,No,Positivo,184,299.9,Gestacional,93,84,16.7,Si,Alta,Si,Alta en carbohidratos
+355,38,Masculino,99,Si,80,176,No,Negativo,198,211.2,Tipo 1,70,62,12.7,,Alta,No,Alta en grasas
+356,49,Masculino,77,No,135.1,164,Si,Positivo,166,194.6,Tipo 1,95,74,12,No,Moderada,Si,Balanceada
+357,40,Femenino,69,Si,173.3,110,No,Negativo,193,162.6,Ninguno,,88,16.3,No,Alta,Si,Alta en carbohidratos
+358,50,Femenino,96,Si,161.9,,No,Negativo,177,124.1,,94,91,14.1,No,Alta,Si,Alta en grasas
+359,20,Femenino,56,No,76.5,94,Si,Negativo,179,246.2,Tipo 2,77,85,13.5,No,Ninguna,Si,Alta en carbohidratos
+360,35,Femenino,60,Si,79.5,176,No,Positivo,,138.5,Ninguno,99,75,12.1,No,Moderada,Si,Baja en protei要as
+361,42,Femenino,69,Si,122.4,130,No,Positivo,195,123.1,Tipo 2,81,84,15.2,No,Ninguna,Si,Balanceada
+362,59,Masculino,65,No,108.4,148,Si,Negativo,155,184.4,Tipo 1,83,87,17.1,Si,Ninguna,Si,Balanceada
+363,48,Masculino,53,No,100.2,178,No,Positivo,184,259.1,Tipo 2,,68,17.7,No,Baja,,Baja en protei要as
+364,71,Femenino,55,No,,143,No,Negativo,190,249,Tipo 2,96,60,,No,Baja,No,Baja en protei要as
+365,75,Masculino,71,No,174.5,163,No,Positivo,186,111,Ninguno,98,88,15.1,No,Moderada,No,Alta en carbohidratos
+366,20,Femenino,75,No,190.8,111,Si,Negativo,173,191,Tipo 2,,81,12.5,No,Moderada,Si,Baja en protei要as
+367,57,Femenino,52,Si,122.7,172,No,Positivo,,204.5,,67,75,15.3,No,Baja,Si,Balanceada
+368,63,Masculino,90,No,187.8,154,No,Negativo,198,228.9,Tipo 1,87,66,14.3,No,Baja,Si,Baja en protei要as
+369,41,Masculino,91,Si,111.8,153,Si,Negativo,195,230,Ninguno,64,73,15.6,Si,Baja,No,Alta en grasas
+370,67,Masculino,63,Si,131.9,160,Si,Negativo,,172.9,,76,88,,Si,Baja,No,Alta en grasas
+371,49,Femenino,60,Si,99.4,93,No,Negativo,184,212.1,Gestacional,96,78,,Si,Baja,Si,
+372,64,Masculino,67,No,153.3,154,No,Positivo,182,196.2,Tipo 2,95,78,12.6,Si,Ninguna,Si,Balanceada
+373,39,Femenino,61,No,197.3,104,No,Negativo,170,277,Tipo 1,78,61,13.9,Si,Moderada,No,Alta en grasas
+374,40,Femenino,72,Si,148.5,165,No,Positivo,,206.1,Ninguno,86,74,12.6,Si,Ninguna,No,Baja en protei要as
+375,19,Femenino,61,No,116.5,111,Si,Positivo,172,188.2,Tipo 1,,62,13.1,No,Ninguna,Si,Alta en grasas
+376,44,Masculino,62,No,154.2,175,No,Negativo,182,180.9,Gestacional,70,70,17.9,No,Alta,Si,
+377,59,Masculino,74,No,86,136,Si,Positivo,152,214.5,Tipo 2,71,89,14.7,No,Ninguna,Si,Alta en carbohidratos
+378,19,Femenino,94,No,,170,Si,Positivo,167,260.8,Ninguno,80,99,15.2,No,Baja,Si,Baja en protei要as
+379,43,Masculino,68,Si,135.4,135,No,Positivo,174,207.7,Tipo 2,70,77,17.2,No,Baja,No,Baja en protei要as
+380,34,Masculino,95,Si,128.4,103,No,Negativo,191,232.3,Gestacional,98,61,18,No,Alta,No,Baja en protei要as
+381,57,Masculino,85,No,146.2,139,Si,Positivo,180,247.6,Gestacional,87,91,15.5,Si,Alta,Si,Alta en carbohidratos
+382,50,Femenino,94,Si,151.2,109,Si,Positivo,152,204,Tipo 1,64,67,16.9,No,,Si,Baja en protei要as
+383,26,Femenino,57,No,79.3,139,No,Negativo,,185.4,Ninguno,76,81,14,Si,Alta,Si,Baja en protei要as
+384,60,Masculino,78,No,158.7,122,Si,Negativo,195,275.3,,79,65,13.8,Si,,No,Alta en grasas
+385,71,Femenino,81,Si,101.5,148,No,Positivo,173,183.5,Gestacional,71,71,14.4,No,Ninguna,Si,Alta en grasas
+386,65,Masculino,93,Si,162.8,132,No,Negativo,199,192.4,Tipo 2,,99,16,No,Alta,Si,Baja en protei要as
+387,56,Masculino,67,Si,176.9,168,Si,Positivo,181,298.1,Tipo 1,76,95,16.1,No,Ninguna,Si,Balanceada
+388,46,Masculino,55,No,174.5,101,Si,Positivo,196,100,Tipo 1,78,74,13.9,No,Moderada,No,Balanceada
+389,59,Masculino,67,Si,141.8,129,No,Positivo,171,137.1,Tipo 2,85,87,12.8,No,Alta,Si,Baja en protei要as
+390,72,Femenino,68,No,137.6,109,Si,Negativo,172,176.8,Tipo 1,91,77,15.8,No,Alta,No,Balanceada
+391,43,Femenino,71,Si,88.6,127,No,Positivo,151,286.5,Tipo 2,65,61,12.8,No,Ninguna,Si,Alta en carbohidratos
+392,52,Femenino,86,Si,170.8,92,No,Negativo,176,114,Ninguno,95,72,15.5,Si,Moderada,Si,Alta en grasas
+393,67,Masculino,81,No,105.3,117,No,Negativo,191,101.9,Tipo 2,97,74,16.2,No,Ninguna,Si,Alta en carbohidratos
+394,42,Masculino,90,No,134.6,145,Si,Positivo,151,110.5,Ninguno,70,79,16.2,No,Ninguna,,Alta en grasas
+395,41,Masculino,52,No,107,179,No,Negativo,,117.7,Tipo 2,92,88,16.5,Si,Alta,Si,
+396,30,Femenino,77,No,87.4,102,No,Negativo,166,107.5,Gestacional,83,88,17.2,No,Baja,Si,Balanceada
+397,77,Masculino,59,No,151.8,166,No,Negativo,189,196,,82,62,,No,Baja,No,Baja en protei要as
+398,75,Femenino,84,No,77.1,155,No,Negativo,,216.2,Ninguno,74,78,16.4,Si,Ninguna,No,Balanceada
+399,24,Femenino,78,No,167.3,126,No,Negativo,158,154.3,Ninguno,86,62,15.7,No,Alta,No,Balanceada
+400,74,Femenino,64,No,111.3,138,No,Positivo,192,179.7,Gestacional,70,73,13.1,No,Moderada,Si,Baja en protei要as
+401,53,Femenino,,Si,70,155,No,Negativo,197,118.3,Ninguno,76,99,12.2,No,Baja,No,Baja en protei要as
+402,62,Femenino,56,No,136.4,125,No,Positivo,188,167.3,Tipo 2,73,,13.7,No,Moderada,Si,Alta en grasas
+403,37,Femenino,61,No,76.1,143,No,Positivo,178,204.5,Tipo 2,86,70,14.7,No,Baja,No,Balanceada
+404,18,Masculino,98,Si,105.9,115,No,Positivo,191,246.5,Gestacional,77,90,15.7,No,Alta,No,Alta en grasas
+405,25,Masculino,79,No,161.9,164,No,Positivo,175,100.7,,87,91,17.1,Si,Ninguna,No,Alta en grasas
+406,63,Femenino,70,Si,78.1,161,Si,Positivo,184,193.5,Tipo 2,63,86,13.2,No,Moderada,Si,Alta en carbohidratos
+407,33,Femenino,80,Si,179.1,129,No,Positivo,199,159.4,Ninguno,66,89,12.8,No,Moderada,Si,Balanceada
+408,31,Masculino,73,No,70.5,132,No,Negativo,174,270.6,Tipo 1,94,61,17.8,Si,Ninguna,Si,Balanceada
+409,29,Femenino,69,Si,102.1,111,No,Negativo,173,243.1,Tipo 1,68,68,12.6,Si,Moderada,Si,Alta en carbohidratos
+410,68,Femenino,86,No,166.3,109,Si,Negativo,162,217.8,Tipo 2,67,87,14.9,No,Baja,Si,Alta en grasas
+411,40,Masculino,53,Si,,97,No,Positivo,156,155.5,Tipo 2,76,90,15.5,Si,Ninguna,Si,Balanceada
+412,32,Femenino,77,Si,83.2,118,Si,Negativo,185,282.1,Tipo 1,76,93,15.2,No,Baja,Si,Alta en grasas
+413,45,Femenino,93,Si,116.8,129,No,Negativo,194,109,Tipo 1,92,74,12.5,No,Baja,Si,Alta en carbohidratos
+414,51,Femenino,69,No,105.2,179,No,Negativo,169,121.9,Gestacional,91,84,12.3,Si,Alta,Si,Baja en protei要as
+415,19,Masculino,73,No,179.6,119,Si,Positivo,150,178.3,Ninguno,67,95,12.6,No,Baja,No,Alta en grasas
+416,49,Masculino,99,Si,110.7,170,No,Negativo,157,124.9,Gestacional,78,67,15.5,No,Alta,No,
+417,40,Masculino,98,Si,172.6,173,Si,Positivo,195,291.3,Tipo 2,97,68,15.3,Si,Moderada,Si,
+418,39,Femenino,81,No,185.9,144,Si,Negativo,165,259.6,Gestacional,62,,13.4,Si,Moderada,Si,Alta en grasas
+419,68,Femenino,90,No,126.4,105,No,Positivo,163,151.8,Gestacional,64,,15.8,Si,Alta,Si,Alta en grasas
+420,42,Masculino,85,Si,188.3,,No,Positivo,161,217.7,Gestacional,72,91,16.9,Si,Baja,Si,Baja en protei要as
+421,75,Femenino,83,Si,119.1,151,No,Positivo,172,296.5,Gestacional,90,76,12.2,No,Ninguna,No,Baja en protei要as
+422,79,Femenino,85,No,195.3,96,No,Negativo,164,276.8,Ninguno,75,94,15,Si,Ninguna,No,Baja en protei要as
+423,78,Femenino,51,No,81.6,169,Si,Negativo,177,220.2,Ninguno,91,96,16.1,Si,Alta,Si,Balanceada
+424,39,Femenino,64,No,159.3,134,Si,Positivo,183,280.7,Tipo 1,81,78,13.5,Si,Moderada,No,Balanceada
+425,75,Femenino,83,No,134.2,148,No,Negativo,151,297.8,Tipo 2,88,88,13.8,Si,Moderada,No,Alta en grasas
+426,75,Masculino,85,No,120.4,145,Si,Positivo,181,248.7,,81,66,15.7,Si,Ninguna,Si,Alta en grasas
+427,39,Femenino,55,Si,152.3,137,Si,Positivo,172,113,Tipo 1,62,87,17.4,No,Alta,Si,Alta en carbohidratos
+428,66,Masculino,88,No,161.5,116,No,Negativo,171,180.3,Tipo 1,69,68,16.9,Si,Ninguna,Si,Balanceada
+429,69,Femenino,91,Si,70.6,142,Si,Negativo,174,267.6,Tipo 1,80,87,15.5,No,Baja,Si,Alta en grasas
+430,59,Masculino,61,No,91.7,176,Si,Negativo,171,146.1,Ninguno,75,65,16.4,Si,Baja,No,Baja en protei要as
+431,23,Femenino,52,Si,162.7,177,No,Positivo,171,266.1,Gestacional,,88,14.2,Si,Alta,Si,Baja en protei要as
+432,32,Masculino,94,No,156.6,162,Si,Positivo,198,124.1,Gestacional,61,76,15.8,Si,Alta,No,Balanceada
+433,71,Femenino,67,No,195.6,124,No,Negativo,,109.4,Tipo 2,83,75,14.8,Si,Baja,,
+434,60,Masculino,89,Si,168.9,140,Si,Positivo,155,176.8,Gestacional,94,82,13.1,Si,Moderada,No,Alta en carbohidratos
+435,77,Femenino,70,Si,193.6,173,No,Negativo,164,107.3,Gestacional,89,90,16.2,Si,Alta,Si,Alta en grasas
+436,54,Masculino,64,No,161.3,126,Si,Positivo,192,291.5,Tipo 1,89,62,15.3,Si,Baja,Si,Alta en grasas
+437,50,Femenino,82,No,108.7,170,Si,Negativo,186,265.2,Tipo 2,,80,14.2,Si,Baja,No,Alta en grasas
+438,25,Masculino,84,No,83.7,146,No,Negativo,182,260.2,Gestacional,78,85,17.5,No,Moderada,No,Balanceada
+439,70,Masculino,75,No,171.6,97,No,Positivo,157,226,Ninguno,67,95,12.1,Si,Moderada,No,Baja en protei要as
+440,77,Femenino,57,No,,168,No,Negativo,193,143.3,Gestacional,85,96,13.9,No,Moderada,Si,Alta en carbohidratos
+441,61,Femenino,85,Si,76.3,109,No,Negativo,193,203.7,Tipo 1,99,81,12.3,Si,Moderada,No,Balanceada
+442,61,Masculino,97,Si,116.8,142,Si,Positivo,154,219.5,Ninguno,66,71,16.6,No,Ninguna,No,Alta en grasas
+443,22,Femenino,79,No,194.4,101,Si,Negativo,188,205,Tipo 1,89,72,16.2,Si,Moderada,No,Alta en carbohidratos
+444,56,Masculino,72,Si,135.1,138,Si,Positivo,153,152,,66,70,14,,,No,Alta en grasas
+445,21,Masculino,91,Si,126.3,106,No,Negativo,155,203,Ninguno,62,75,16.1,Si,Alta,No,Alta en grasas
+446,23,Masculino,93,Si,129.5,153,Si,Positivo,194,198.2,Tipo 2,60,,14.4,No,Baja,No,Balanceada
+447,62,Femenino,63,No,97.2,131,Si,Negativo,181,299.3,Tipo 2,95,99,16.5,,Ninguna,No,Alta en grasas
+448,49,Masculino,63,Si,117.9,118,No,Negativo,179,279.5,Ninguno,84,99,,No,Alta,No,Alta en carbohidratos
+449,69,Masculino,51,No,118.1,108,No,Negativo,196,192.7,Ninguno,96,61,14.5,No,,No,Alta en grasas
+450,47,Femenino,86,Si,76.8,,Si,Negativo,184,224.6,Tipo 1,60,89,17.6,Si,Ninguna,Si,Baja en protei要as
+451,64,Femenino,54,No,169.8,139,No,Positivo,189,249.6,Ninguno,74,89,13.5,Si,Alta,Si,Alta en grasas
+452,52,Femenino,87,Si,124.1,160,Si,Positivo,165,107,Tipo 1,96,71,12.7,Si,Alta,No,Balanceada
+453,72,Femenino,94,No,176.9,147,Si,Positivo,162,279,Gestacional,72,69,,No,Ninguna,Si,Alta en carbohidratos
+454,57,Masculino,90,No,180.5,123,No,Positivo,199,272,Tipo 1,99,70,17.8,Si,Alta,,Balanceada
+455,69,Masculino,96,Si,97.6,109,Si,Positivo,191,191.5,Ninguno,67,74,14.3,No,Moderada,No,Baja en protei要as
+456,33,Masculino,63,No,155.5,139,No,Positivo,179,178.2,Ninguno,64,75,12.4,,Moderada,No,Alta en grasas
+457,30,Masculino,88,No,,177,No,Positivo,168,154.6,Gestacional,68,76,14,No,Baja,No,Balanceada
+458,67,Femenino,,No,184.4,99,Si,Negativo,166,195.3,Ninguno,60,85,15,No,Alta,No,Balanceada
+459,77,Masculino,69,No,98,121,Si,Negativo,168,108.9,Ninguno,95,61,13,No,Baja,No,Balanceada
+460,59,Masculino,51,No,158.1,141,Si,Negativo,177,270.4,Tipo 2,94,71,15.9,Si,Moderada,No,Balanceada
+461,47,Femenino,88,No,149,104,No,Negativo,175,107.1,Tipo 2,,85,18,No,Moderada,Si,Baja en protei要as
+462,36,Masculino,55,No,108.4,173,Si,Positivo,186,165.8,Gestacional,99,82,14.7,No,Moderada,No,Baja en protei要as
+463,34,Masculino,66,No,,92,No,Positivo,175,286.3,Tipo 1,82,77,14.1,Si,Alta,Si,
+464,73,Masculino,74,Si,154.7,126,No,Positivo,172,247,Tipo 2,68,91,,No,Alta,No,Alta en grasas
+465,36,Masculino,,Si,166,129,Si,Negativo,158,156.3,,93,97,12.7,No,Moderada,No,Alta en carbohidratos
+466,45,Masculino,51,No,111,161,No,Positivo,161,150.5,Ninguno,,62,17.3,Si,Baja,Si,Baja en protei要as
+467,75,Masculino,84,No,153.8,129,Si,Negativo,150,101,Tipo 2,63,97,14.5,Si,Baja,No,Balanceada
+468,72,Femenino,86,Si,121.4,145,Si,Positivo,150,239.1,Gestacional,,62,14.3,Si,Ninguna,No,Balanceada
+469,43,Femenino,54,Si,162.7,112,Si,Positivo,196,109.8,Gestacional,90,89,16,,Moderada,Si,Alta en carbohidratos
+470,54,Masculino,50,Si,95.9,100,Si,Positivo,183,206.5,Gestacional,,60,14.7,Si,Baja,No,Balanceada
+471,43,Masculino,89,No,185.7,153,Si,Positivo,,292.4,Tipo 2,70,,15.9,Si,Moderada,Si,Alta en carbohidratos
+472,70,Femenino,61,Si,107.4,97,Si,Negativo,197,121.9,Tipo 1,94,91,12.4,Si,Baja,No,Alta en grasas
+473,79,Masculino,85,No,,145,Si,Negativo,174,278.9,Ninguno,67,87,16.9,No,Ninguna,,Baja en protei要as
+474,40,Masculino,94,No,77.6,149,No,Positivo,189,298.3,Tipo 1,,80,17.6,Si,Ninguna,Si,Alta en carbohidratos
+475,26,Masculino,72,Si,84.5,99,Si,Negativo,194,112.3,Tipo 1,73,72,15.9,No,Moderada,No,Balanceada
+476,29,Femenino,96,No,,128,No,Positivo,150,276.6,Ninguno,72,86,17.7,No,Baja,Si,Alta en carbohidratos
+477,70,Masculino,80,No,104.8,117,No,Positivo,165,203.2,Ninguno,91,95,12.9,Si,Alta,Si,Alta en grasas
+478,18,Femenino,60,No,178.6,138,No,Positivo,,281.3,Tipo 2,93,66,14.9,No,Ninguna,Si,Balanceada
+479,75,Masculino,59,No,71.9,125,Si,Positivo,154,214.3,Tipo 2,78,81,15.6,No,Moderada,No,Alta en grasas
+480,75,Femenino,52,Si,119.3,102,No,Negativo,171,232.4,Tipo 2,97,69,15.5,Si,Moderada,No,Alta en grasas
+481,18,Femenino,63,Si,113.9,125,No,Positivo,178,208.8,Tipo 2,,98,14.4,No,Baja,Si,
+482,64,Masculino,65,No,72.5,115,Si,Positivo,152,272.9,Tipo 2,61,74,14,,Moderada,No,Alta en grasas
+483,51,Femenino,,No,86.2,175,Si,Negativo,161,246.8,Ninguno,99,74,12.8,No,Ninguna,No,Balanceada
+484,49,Masculino,78,Si,123.8,93,No,Positivo,175,204.3,Tipo 1,76,63,14.4,No,Moderada,No,Alta en grasas
+485,79,Femenino,59,No,134.1,171,Si,Negativo,165,273.6,Tipo 2,93,91,13,Si,Moderada,Si,Alta en grasas
+486,71,Masculino,61,Si,122.6,153,Si,Positivo,186,149.1,Tipo 2,75,82,16.4,Si,Alta,No,Alta en carbohidratos
+487,65,Masculino,79,No,139,127,Si,Positivo,171,131.5,Tipo 1,97,65,13.3,No,Alta,Si,Alta en grasas
+488,42,Femenino,90,No,147.4,177,Si,Positivo,178,132.1,Tipo 2,61,83,12.4,No,Ninguna,No,Baja en protei要as
+489,57,Masculino,50,Si,71.3,176,No,Positivo,163,166.8,Tipo 1,61,79,15.3,Si,Baja,No,Alta en carbohidratos
+490,62,Masculino,,Si,,111,Si,Positivo,177,147.7,Tipo 1,85,96,15.6,No,,Si,Alta en carbohidratos
+491,70,Femenino,69,Si,195.3,91,Si,Positivo,154,286,Ninguno,72,79,17.2,No,Baja,No,Balanceada
+492,18,Masculino,57,Si,137.5,,Si,Negativo,196,121.2,Gestacional,90,71,15.5,No,Ninguna,Si,Balanceada
+493,33,Masculino,92,No,158.1,100,No,Positivo,198,239.8,Ninguno,93,92,14.1,No,Alta,No,Balanceada
+494,78,Femenino,61,Si,110.5,135,No,Negativo,179,137.8,Gestacional,98,87,16.8,Si,Baja,Si,Balanceada
+495,56,Femenino,50,No,170.6,151,Si,Negativo,195,276.3,Gestacional,62,67,15.2,Si,Alta,No,Baja en protei要as
+496,22,Masculino,69,Si,170.5,158,Si,Positivo,154,292.3,Gestacional,67,,12.5,Si,Ninguna,No,Alta en carbohidratos
+497,39,Masculino,77,Si,137.8,153,No,Negativo,161,193.1,Tipo 2,82,96,15.4,Si,Ninguna,,Alta en grasas
+498,46,Femenino,92,No,196.9,99,Si,Positivo,165,,Ninguno,73,81,17.4,Si,Alta,Si,Balanceada
+499,72,Femenino,86,Si,86.3,129,Si,Negativo,175,101,Gestacional,86,65,14.4,Si,Baja,Si,Balanceada
+500,20,Masculino,96,Si,72.2,113,No,Positivo,175,264,Tipo 1,88,80,13.8,No,Moderada,Si,Balanceada
+501,29,Femenino,86,Si,170.1,133,Si,Negativo,197,,Tipo 2,,91,12.9,,Moderada,No,
+502,43,Masculino,61,Si,174.9,149,Si,Negativo,170,281.7,Ninguno,98,94,12.9,No,Alta,Si,Balanceada
+503,33,Masculino,86,No,85.6,151,No,Positivo,188,100.2,Gestacional,60,74,14.6,No,Baja,Si,Alta en grasas
+504,68,Masculino,98,No,104.5,176,No,Negativo,185,211.2,Tipo 1,76,64,15.6,No,Moderada,Si,Alta en carbohidratos
+505,54,Masculino,98,Si,72.3,106,Si,Positivo,182,,Ninguno,89,65,12.5,Si,Ninguna,Si,Alta en carbohidratos
+506,39,Masculino,93,Si,108.1,154,No,Positivo,179,151.7,Ninguno,72,84,17.6,No,Baja,,Alta en carbohidratos
+507,74,Femenino,77,Si,170.5,146,Si,Positivo,186,138.6,Tipo 2,,99,16.5,Si,Moderada,,Baja en protei要as
+508,46,Femenino,96,No,137.3,144,Si,Positivo,172,116.8,Ninguno,78,88,15.5,No,Baja,Si,Alta en grasas
+509,31,Femenino,64,No,115.3,142,Si,Positivo,159,165.3,Tipo 2,78,66,17,No,Alta,Si,Balanceada
+510,45,Femenino,55,No,118.3,145,No,Negativo,154,212,Gestacional,84,99,12.5,Si,Baja,Si,Balanceada
+511,22,Masculino,93,No,70.2,,No,Negativo,185,123.2,Tipo 2,81,72,14.9,No,Moderada,Si,Balanceada
+512,64,Masculino,69,Si,109,111,Si,Negativo,183,175.3,Tipo 1,90,97,15.8,No,Alta,No,Balanceada
+513,66,Masculino,99,Si,154,102,Si,Positivo,180,101.8,Tipo 2,,,17,No,Baja,No,Baja en protei要as
+514,47,Masculino,63,Si,196.6,178,No,Negativo,159,263.7,Tipo 1,82,61,16.7,No,Ninguna,Si,Balanceada
+515,63,Femenino,51,No,180.1,137,No,Negativo,168,125.7,,91,67,13.7,Si,Moderada,No,Baja en protei要as
+516,79,Masculino,58,Si,73.1,,No,Negativo,181,,Ninguno,69,70,17.6,,Alta,No,Alta en grasas
+517,69,Masculino,86,No,186.8,165,Si,Negativo,150,103.7,,69,92,12.7,No,Baja,Si,Alta en carbohidratos
+518,22,Femenino,69,No,171.8,129,No,Negativo,154,186.4,Tipo 1,95,97,17.3,Si,Ninguna,Si,Balanceada
+519,29,Femenino,75,Si,171.4,106,No,Positivo,194,268,Tipo 2,67,86,17.8,No,Moderada,Si,Alta en carbohidratos
+520,33,Femenino,78,Si,129.5,104,Si,Positivo,153,178.4,Tipo 2,79,79,13.1,No,Ninguna,No,Alta en grasas
+521,43,Femenino,50,Si,121.7,104,Si,Negativo,165,135.9,Tipo 2,91,,16.3,No,Baja,Si,Alta en grasas
+522,43,Masculino,84,No,109.4,168,Si,Positivo,173,250.7,,73,90,12.2,No,Baja,,Balanceada
+523,65,Masculino,55,No,78.5,152,No,Positivo,165,,,87,86,14.4,,Alta,Si,Alta en grasas
+524,38,Femenino,86,Si,99.7,128,Si,Negativo,151,,Tipo 1,83,,15.1,No,Ninguna,No,Alta en carbohidratos
+525,56,Masculino,54,Si,102.1,102,Si,Negativo,198,254.2,Tipo 1,74,69,15.5,Si,Alta,No,Balanceada
+526,53,Masculino,82,No,132.9,170,Si,Positivo,177,289.5,,81,62,17.6,No,Moderada,Si,Baja en protei要as
+527,50,Masculino,98,Si,167.2,121,Si,Negativo,181,133.3,Tipo 1,89,86,16,No,Alta,Si,Balanceada
+528,79,Femenino,,No,131.6,98,No,Positivo,176,254.2,Gestacional,63,94,14.9,No,Moderada,No,Alta en carbohidratos
+529,47,Masculino,61,No,77.5,129,Si,Positivo,169,241.7,Gestacional,72,90,16.9,Si,Baja,,Balanceada
+530,54,Femenino,91,Si,194.5,109,No,Negativo,173,194.7,Ninguno,,74,17.7,No,Baja,Si,Balanceada
+531,40,Masculino,69,Si,192.6,179,No,Positivo,161,111.6,Tipo 1,67,75,12.1,No,Ninguna,Si,Alta en carbohidratos
+532,75,Masculino,99,Si,172.1,174,No,Positivo,199,114.9,Tipo 2,77,,17.9,Si,Moderada,No,Balanceada
+533,27,Masculino,73,Si,198.9,171,Si,Positivo,184,270.5,Gestacional,71,94,12.5,Si,Baja,Si,Balanceada
+534,71,Femenino,92,No,140.8,166,No,Negativo,182,298,Ninguno,90,70,16.9,Si,Ninguna,No,Alta en carbohidratos
+535,22,Masculino,83,No,195.2,169,Si,Negativo,182,,Tipo 1,73,80,13.7,Si,Ninguna,Si,Alta en grasas
+536,53,Femenino,74,No,79.8,162,Si,Negativo,192,189.2,Ninguno,93,70,12.8,No,Alta,Si,Alta en carbohidratos
+537,51,Femenino,99,Si,117.5,152,Si,Negativo,186,229.5,Tipo 2,77,89,14.6,No,Ninguna,Si,Balanceada
+538,69,Femenino,78,No,99.3,165,No,Positivo,161,218.9,Gestacional,93,94,15.9,No,Baja,No,Baja en protei要as
+539,48,Masculino,,Si,95.5,133,Si,Negativo,152,176.7,Ninguno,,81,14.3,,,Si,Baja en protei要as
+540,27,Masculino,80,Si,88.3,127,Si,Negativo,150,113.1,Ninguno,71,97,12.3,Si,,No,Alta en carbohidratos
+541,75,Masculino,96,Si,150.9,,Si,Negativo,182,264.3,Ninguno,74,90,15.6,No,Moderada,Si,
+542,36,Masculino,92,Si,171.6,149,No,Negativo,189,174.4,,90,73,17.4,No,Baja,No,Balanceada
+543,75,Femenino,99,Si,145.2,160,No,Positivo,159,263.8,Ninguno,88,83,14.3,No,Baja,No,Balanceada
+544,49,Femenino,72,Si,89.1,137,No,Positivo,192,150.5,Tipo 2,85,91,13.3,No,Alta,Si,Alta en carbohidratos
+545,18,Femenino,93,No,175.4,107,Si,Positivo,193,100.2,Tipo 2,77,95,14.7,Si,Alta,No,Balanceada
+546,73,Masculino,87,Si,152.7,105,No,Negativo,178,131.8,Tipo 2,91,91,12.3,No,Baja,No,Alta en grasas
+547,22,Femenino,69,No,120.5,144,Si,Negativo,162,193.7,Gestacional,81,74,16.9,No,,No,Balanceada
+548,62,Masculino,72,No,157.6,128,Si,Positivo,161,288.9,Gestacional,97,94,17,No,Moderada,No,Alta en carbohidratos
+549,21,Femenino,94,Si,103.8,157,No,Negativo,180,120.4,Ninguno,76,62,15.5,Si,Moderada,Si,Alta en grasas
+550,33,Masculino,65,Si,114.9,148,Si,Negativo,195,270.8,Ninguno,82,75,14.1,Si,Moderada,Si,Alta en grasas
+551,41,Masculino,99,Si,189.3,178,No,Positivo,151,205.4,Gestacional,83,64,16.8,No,Baja,Si,Baja en protei要as
+552,33,Femenino,91,No,107.8,151,Si,Positivo,199,265.2,Tipo 1,67,80,15.3,No,Ninguna,No,Balanceada
+553,72,Femenino,57,Si,,102,No,Negativo,184,159.7,Gestacional,65,69,,No,Baja,No,Alta en carbohidratos
+554,19,Femenino,99,No,185.7,170,Si,Negativo,172,268,Tipo 2,64,78,15.8,Si,Baja,Si,Baja en protei要as
+555,66,Femenino,70,Si,162,95,Si,Negativo,166,254.6,Gestacional,88,84,16.7,No,Moderada,Si,Baja en protei要as
+556,45,Masculino,50,Si,78.1,172,Si,Positivo,175,146,Tipo 2,87,63,15.6,No,Baja,No,Balanceada
+557,49,Femenino,,No,89.1,166,Si,Positivo,157,126.3,Ninguno,70,88,14.5,No,Alta,Si,Balanceada
+558,44,Femenino,78,No,71,149,Si,Positivo,178,273.6,Tipo 1,60,78,17.7,Si,Baja,Si,Alta en carbohidratos
+559,37,Femenino,81,Si,152,179,No,Positivo,175,292.6,Ninguno,78,61,15.2,No,Baja,No,Baja en protei要as
+560,41,Masculino,87,No,,103,Si,Negativo,159,106.3,Tipo 2,68,69,15.6,No,Baja,Si,
+561,29,Masculino,54,No,87.5,143,No,Positivo,175,246.3,Tipo 2,86,84,13.3,Si,Baja,No,
+562,67,Femenino,96,No,194.5,,No,Positivo,183,281.9,Tipo 2,93,79,15.8,Si,Ninguna,Si,Baja en protei要as
+563,52,Masculino,71,No,138.9,128,No,Negativo,190,271.5,Tipo 1,63,78,15.4,No,Baja,No,Baja en protei要as
+564,77,Femenino,96,No,101.4,161,Si,Negativo,156,292.9,Gestacional,95,82,13.1,Si,Alta,No,Balanceada
+565,50,Masculino,83,Si,135.1,114,Si,Negativo,153,252,Ninguno,77,83,12.4,No,Alta,No,Baja en protei要as
+566,50,Masculino,50,Si,158.4,166,Si,Positivo,,188.5,Ninguno,74,70,15.6,Si,Baja,No,Baja en protei要as
+567,78,Masculino,75,No,79.9,121,No,Negativo,194,162.4,Gestacional,72,93,16.6,Si,Moderada,No,Baja en protei要as
+568,68,Masculino,92,Si,105.7,148,Si,Negativo,160,164.1,Ninguno,78,87,15.1,No,Ninguna,Si,Alta en grasas
+569,60,Femenino,59,Si,,152,Si,Positivo,178,244.9,Tipo 1,65,64,13.4,No,Baja,Si,Balanceada
+570,54,Femenino,79,No,129.8,127,No,Positivo,185,249.2,Ninguno,71,64,16,No,Baja,Si,Alta en grasas
+571,29,Femenino,99,Si,141.1,142,No,Negativo,174,140.1,Tipo 2,96,80,12.5,Si,Baja,No,Balanceada
+572,20,Masculino,67,No,126.3,156,No,Positivo,170,,Gestacional,76,71,14.7,No,Moderada,Si,Alta en carbohidratos
+573,18,Femenino,66,No,75.7,117,No,Negativo,185,243,Tipo 1,82,63,13,No,Moderada,No,Alta en grasas
+574,50,Femenino,75,Si,91.5,92,No,Negativo,159,212.6,Gestacional,85,79,13.1,No,Moderada,No,Alta en carbohidratos
+575,57,Femenino,57,No,127.9,169,No,Positivo,186,194.3,Tipo 1,88,97,13.2,No,Ninguna,,Baja en protei要as
+576,27,Masculino,96,No,97.2,111,Si,Negativo,158,208.6,Tipo 2,92,84,14.3,No,,No,
+577,60,Masculino,89,No,76.5,127,No,Positivo,,131.8,Gestacional,86,73,12.3,Si,Ninguna,Si,Alta en carbohidratos
+578,61,Masculino,98,No,179.7,161,Si,Positivo,184,140.7,Ninguno,84,70,14.4,No,Moderada,No,Alta en carbohidratos
+579,46,Femenino,61,No,197.6,161,Si,Positivo,198,118.2,,69,91,15.1,No,Alta,No,Alta en carbohidratos
+580,30,Femenino,76,Si,173.1,151,Si,Negativo,184,130.7,Gestacional,82,70,14.9,,Alta,Si,Balanceada
+581,29,Femenino,57,Si,181,146,No,Positivo,197,190.7,Ninguno,80,77,14.3,No,Moderada,No,Alta en grasas
+582,48,Masculino,74,No,101.5,95,Si,Positivo,,206.1,Gestacional,80,86,,No,Moderada,Si,Balanceada
+583,63,Masculino,95,No,194.9,167,No,Negativo,167,103.6,Gestacional,72,77,12.9,No,Ninguna,No,Balanceada
+584,19,Femenino,53,Si,95.6,121,No,Negativo,198,259.4,Gestacional,96,82,15,No,Moderada,Si,Balanceada
+585,78,Masculino,82,No,193.7,99,Si,Negativo,188,158.8,Tipo 1,92,70,12.4,No,Alta,No,Alta en carbohidratos
+586,68,Masculino,50,Si,199.3,92,No,Negativo,181,282.4,Ninguno,83,80,12.4,Si,Baja,Si,Balanceada
+587,67,Masculino,68,No,162.5,148,Si,Positivo,173,293.5,Tipo 2,70,64,15.4,Si,Moderada,Si,
+588,52,Masculino,80,No,197.5,165,Si,Positivo,172,137.1,,76,82,15.4,Si,Moderada,No,Balanceada
+589,40,Femenino,65,No,144,138,No,Positivo,181,192.4,Tipo 1,63,84,17.3,No,Ninguna,Si,Baja en protei要as
+590,34,Masculino,63,No,103.7,148,Si,Negativo,186,100.2,Tipo 1,84,69,15.3,Si,Ninguna,No,Alta en carbohidratos
+591,43,Masculino,97,No,126.8,120,Si,Negativo,161,219.7,Tipo 2,89,81,17.8,No,Moderada,No,Baja en protei要as
+592,25,Masculino,54,No,147.2,158,Si,Positivo,198,221.5,Ninguno,68,78,12.3,No,Alta,Si,Alta en grasas
+593,46,Masculino,90,No,79.5,151,No,Negativo,162,149.5,Ninguno,80,60,12.6,No,Alta,Si,Alta en grasas
+594,43,Femenino,75,Si,150.9,141,Si,Negativo,,211.7,Ninguno,79,,12.3,Si,Baja,Si,Alta en grasas
+595,27,Femenino,77,Si,197.6,178,No,Positivo,174,145.1,Gestacional,78,63,13.1,Si,Moderada,,Alta en grasas
+596,43,Masculino,51,Si,94.7,130,No,Positivo,184,132.2,Gestacional,78,60,15.2,Si,Ninguna,Si,Balanceada
+597,79,Masculino,99,No,173,120,Si,Negativo,190,230.3,Gestacional,71,74,15.9,No,Alta,No,
+598,51,Masculino,55,No,,174,Si,Negativo,179,165.2,Tipo 2,96,99,12.3,Si,Baja,Si,Alta en grasas
+599,68,Masculino,58,No,192.7,173,No,Negativo,166,218.1,Gestacional,76,71,17.7,No,Moderada,No,Baja en protei要as
+600,58,Masculino,82,No,194.8,111,No,Positivo,198,186.6,Tipo 2,96,81,17.1,Si,Alta,,Alta en grasas
+601,24,Masculino,90,No,137.8,93,Si,Positivo,169,296.9,Ninguno,98,81,13.8,Si,Moderada,Si,
+602,21,Femenino,74,No,197.1,102,Si,Positivo,197,129.9,Gestacional,87,76,12.5,,Moderada,Si,Baja en protei要as
+603,75,Masculino,97,No,168.5,134,No,Positivo,,192.9,Gestacional,94,88,,No,Alta,No,Baja en protei要as
+604,70,Femenino,62,Si,91,131,No,Positivo,171,236.1,Tipo 1,77,73,12.8,Si,Alta,Si,Baja en protei要as
+605,67,Femenino,58,No,132,138,No,Negativo,162,179.1,Tipo 2,73,79,12.7,Si,Alta,No,Balanceada
+606,62,Masculino,62,Si,163.4,109,No,Negativo,168,294.9,Ninguno,94,92,15.1,Si,Moderada,No,Alta en grasas
+607,28,Femenino,80,Si,102.2,166,No,Negativo,198,244.4,Tipo 1,66,74,,No,Moderada,No,Balanceada
+608,46,Femenino,90,No,153.3,170,Si,Positivo,185,231.4,Tipo 1,72,71,14.1,No,Baja,Si,Baja en protei要as
+609,73,Femenino,60,No,156.7,143,No,Positivo,,251.4,Ninguno,77,99,17.9,Si,Ninguna,No,Balanceada
+610,53,Femenino,53,Si,91.2,125,No,Positivo,190,290.5,Tipo 1,96,79,16.1,Si,Moderada,Si,Balanceada
+611,42,Femenino,83,Si,,90,Si,Negativo,168,281.6,Tipo 2,72,89,17.7,No,Ninguna,No,Balanceada
+612,38,Femenino,87,No,170.3,104,Si,Positivo,161,244.9,Tipo 2,95,97,12.9,Si,Alta,Si,Alta en grasas
+613,78,Masculino,95,No,134.9,166,No,Positivo,158,249.8,Gestacional,90,62,14.3,No,,No,Baja en protei要as
+614,74,Femenino,53,Si,71.6,106,No,Negativo,156,129.2,Tipo 1,61,87,15.3,No,Baja,Si,Baja en protei要as
+615,53,Femenino,87,No,71.2,113,Si,Positivo,177,120.6,Gestacional,75,85,,No,Baja,Si,Alta en grasas
+616,27,Femenino,68,No,116.4,147,No,Negativo,163,,Tipo 1,68,89,12,No,Ninguna,Si,Balanceada
+617,54,Masculino,55,No,190.4,161,No,Positivo,180,103.7,Tipo 2,68,72,16,No,,No,Balanceada
+618,26,Femenino,83,Si,99.7,,Si,Positivo,168,196.5,Tipo 2,97,72,15.9,No,Ninguna,No,Alta en carbohidratos
+619,41,Masculino,67,Si,152.5,135,No,Negativo,196,142.1,Tipo 2,70,61,14.5,Si,Alta,Si,Alta en carbohidratos
+620,52,Femenino,62,Si,,161,Si,Negativo,165,169.2,Tipo 1,81,96,14.9,No,Baja,No,Alta en carbohidratos
+621,66,Masculino,90,No,111.8,97,Si,Negativo,154,255.2,Tipo 2,92,97,14.5,No,Ninguna,No,Alta en grasas
+622,52,Masculino,72,No,180.2,148,Si,Negativo,184,288.2,Tipo 1,95,61,12.1,Si,Baja,No,Baja en protei要as
+623,65,Femenino,68,Si,164.8,179,Si,Negativo,161,114.5,Gestacional,82,95,,No,Baja,No,Alta en carbohidratos
+624,53,Femenino,94,Si,82.4,148,No,Negativo,174,206.8,Tipo 1,93,85,13.1,Si,Alta,No,Baja en protei要as
+625,35,Masculino,,Si,125.7,102,Si,Positivo,170,276.5,Gestacional,68,70,12.6,No,Ninguna,No,Baja en protei要as
+626,66,Femenino,50,No,73.8,128,No,Positivo,185,116.5,Tipo 1,83,67,17.7,Si,Ninguna,No,
+627,56,Masculino,73,Si,132.5,117,No,Negativo,172,264.9,Gestacional,67,99,15.6,Si,Baja,Si,Alta en grasas
+628,49,Masculino,,Si,156.1,178,No,Positivo,165,171.6,Tipo 2,66,81,16.4,,Baja,Si,
+629,41,Masculino,74,No,85.4,150,No,Negativo,188,164.4,Gestacional,95,79,,No,Alta,,Alta en grasas
+630,40,Masculino,70,No,,105,No,Positivo,194,295.5,Tipo 2,77,67,14.4,No,Moderada,Si,Alta en grasas
+631,79,Masculino,64,No,121.7,91,Si,Negativo,,140.2,Tipo 2,62,88,13.4,No,Moderada,Si,Alta en carbohidratos
+632,49,Femenino,,Si,189.5,171,Si,Positivo,188,238.6,Gestacional,87,99,12.6,Si,Baja,,Balanceada
+633,54,Masculino,,No,199.1,106,Si,Positivo,163,264.3,Tipo 1,,85,13.1,Si,Moderada,No,Balanceada
+634,29,Masculino,56,No,,119,Si,Positivo,180,108.2,Tipo 1,,89,16.8,Si,Moderada,No,Balanceada
+635,66,Femenino,64,Si,168.9,102,No,Positivo,154,234.1,,87,76,16.1,No,Moderada,No,Alta en carbohidratos
+636,72,Masculino,70,No,118.3,171,Si,Positivo,184,290.3,,99,79,15.3,Si,Moderada,No,Balanceada
+637,30,Femenino,68,Si,121,102,No,Negativo,172,124.8,Ninguno,60,75,14.9,No,Baja,No,Alta en carbohidratos
+638,40,Femenino,78,Si,168.1,132,No,Negativo,178,279.2,Tipo 1,95,66,17.5,No,Moderada,Si,Alta en carbohidratos
+639,42,Femenino,74,No,189.4,174,Si,Negativo,192,219,Tipo 1,80,75,,Si,Moderada,No,Alta en carbohidratos
+640,52,Masculino,82,No,193.6,110,Si,Positivo,160,223.3,Tipo 2,94,86,13.7,No,Alta,Si,Balanceada
+641,58,Masculino,98,No,145,144,Si,Negativo,167,222.6,Ninguno,72,82,14.1,Si,Baja,No,Baja en protei要as
+642,47,Masculino,81,No,116.4,170,Si,Positivo,196,159.8,Tipo 1,69,83,,No,Ninguna,Si,
+643,34,Femenino,98,No,172.4,129,No,Positivo,161,287,Ninguno,69,68,18,Si,Ninguna,No,Balanceada
+644,66,Masculino,84,No,102.6,172,No,Positivo,158,289.5,,72,94,13.4,No,Alta,No,Alta en grasas
+645,79,Femenino,93,Si,143.3,104,Si,Negativo,159,225.1,Tipo 2,96,79,17.2,Si,Alta,No,Alta en carbohidratos
+646,37,Masculino,,Si,116.6,162,No,Positivo,,256.7,Ninguno,97,96,17,Si,Baja,No,Baja en protei要as
+647,65,Femenino,75,No,155.4,141,No,Negativo,166,222.5,Tipo 2,83,76,13.3,No,,No,Alta en grasas
+648,42,Masculino,60,Si,,163,No,Negativo,187,196.9,Gestacional,61,90,14.4,No,Moderada,No,Baja en protei要as
+649,39,Masculino,84,No,94.9,142,Si,Positivo,156,232.2,Gestacional,81,67,14.5,Si,Alta,Si,Baja en protei要as
+650,30,Masculino,57,Si,189.4,176,No,Positivo,195,210.6,Tipo 2,76,74,17.9,No,Ninguna,No,Alta en carbohidratos
+651,76,Femenino,95,Si,83.2,141,Si,Negativo,162,219.5,Gestacional,,90,13.1,No,Baja,Si,Balanceada
+652,36,Femenino,63,Si,135.8,119,Si,Negativo,189,256.8,Tipo 1,73,89,16.8,No,Moderada,No,Alta en carbohidratos
+653,66,Masculino,59,No,98.7,122,No,Negativo,191,196.2,Ninguno,69,79,14,Si,Baja,Si,Alta en carbohidratos
+654,53,Masculino,51,Si,75.1,146,No,Negativo,158,108.2,Tipo 1,94,98,16.4,Si,Alta,Si,Alta en grasas
+655,29,Femenino,95,No,74.7,141,Si,Negativo,199,132.8,Ninguno,84,71,14.5,No,Ninguna,Si,Alta en carbohidratos
+656,78,Femenino,58,Si,92.8,98,No,Negativo,176,187.7,Tipo 2,62,76,15.5,No,Ninguna,Si,Balanceada
+657,58,Femenino,52,Si,182.7,143,No,Positivo,151,245,Tipo 1,97,89,17,Si,Ninguna,Si,Baja en protei要as
+658,36,Masculino,70,Si,106.7,90,Si,Negativo,154,218.7,Tipo 2,76,88,16.8,No,Ninguna,Si,Alta en carbohidratos
+659,29,Femenino,75,Si,193.6,133,Si,Negativo,178,230.1,Tipo 2,71,78,17.2,Si,Moderada,No,Baja en protei要as
+660,26,Masculino,57,Si,145.6,,Si,Negativo,186,195.9,Ninguno,83,70,12.4,No,Moderada,Si,Alta en carbohidratos
+661,24,Femenino,97,No,126.8,169,Si,Negativo,187,223.1,,88,93,16.2,No,Baja,,Baja en protei要as
+662,45,Masculino,51,No,145.4,98,No,Positivo,168,165.8,Ninguno,84,66,12.8,No,Moderada,No,Alta en carbohidratos
+663,31,Femenino,55,Si,137.2,121,No,Positivo,157,194,Tipo 1,95,93,14.5,Si,Alta,Si,Alta en grasas
+664,48,Femenino,77,Si,168.6,104,Si,Negativo,197,248.9,Gestacional,85,79,15.3,Si,Alta,Si,Baja en protei要as
+665,69,Femenino,78,Si,106.7,101,Si,Negativo,194,274.4,Ninguno,97,97,14.4,,Ninguna,No,Alta en carbohidratos
+666,36,Femenino,75,Si,115.9,167,Si,Negativo,150,186.7,Ninguno,60,83,15.1,Si,Alta,Si,Alta en carbohidratos
+667,75,Femenino,74,No,186.2,146,No,Positivo,171,108.7,Tipo 1,79,69,18,No,Baja,Si,Alta en grasas
+668,64,Masculino,61,Si,193,97,Si,Positivo,166,132.3,Ninguno,87,91,12.8,No,,Si,Alta en grasas
+669,33,Femenino,54,No,186,161,No,Positivo,156,104.2,Tipo 1,75,74,16.1,Si,Moderada,Si,Alta en grasas
+670,70,Femenino,83,Si,124.5,116,Si,Positivo,174,230.7,Tipo 2,,,14.4,No,Moderada,Si,Baja en protei要as
+671,22,Femenino,97,No,171.4,151,Si,Positivo,194,166.5,Ninguno,99,79,12.8,No,Alta,Si,Baja en protei要as
+672,52,Masculino,86,Si,131.9,101,Si,Positivo,153,208.5,,87,62,13,Si,Moderada,Si,Alta en grasas
+673,29,Femenino,64,Si,134.7,154,No,Negativo,185,198.7,Tipo 2,71,96,17.7,No,Ninguna,No,Balanceada
+674,42,Masculino,93,No,96.6,131,No,Positivo,155,116.3,Tipo 2,86,99,17.3,No,Ninguna,Si,Balanceada
+675,69,Femenino,85,Si,146.8,151,No,Positivo,180,180.7,Tipo 2,89,67,17.4,Si,Ninguna,No,Alta en carbohidratos
+676,76,Femenino,64,Si,94.2,100,Si,Negativo,168,144.1,Ninguno,93,99,17.9,No,Alta,No,Balanceada
+677,38,Masculino,92,Si,113.1,132,No,Positivo,193,183.7,Gestacional,96,82,13.2,No,Moderada,No,Alta en carbohidratos
+678,53,Femenino,97,No,181.2,106,No,Negativo,188,140.7,Gestacional,65,99,14.1,No,Alta,No,Baja en protei要as
+679,70,Masculino,72,Si,96.9,121,Si,Positivo,176,268.1,Gestacional,66,70,16,Si,Moderada,Si,Baja en protei要as
+680,40,Masculino,55,Si,79.3,174,Si,Negativo,159,134.8,Ninguno,91,67,14.9,Si,Baja,No,Balanceada
+681,33,Femenino,95,No,79,174,No,Negativo,175,292.2,Tipo 2,91,88,14.5,No,Baja,No,Baja en protei要as
+682,74,Masculino,99,No,192.3,129,No,Negativo,168,183.2,Ninguno,84,89,14.1,No,,No,Alta en grasas
+683,56,Femenino,93,No,135.9,112,No,Negativo,188,269.2,Tipo 2,92,69,15.6,No,Ninguna,No,Alta en grasas
+684,62,Femenino,92,Si,,145,No,Negativo,152,,Ninguno,66,98,15.5,Si,Alta,No,Balanceada
+685,70,Masculino,,Si,175.4,95,Si,Positivo,194,247.1,Ninguno,71,87,13,Si,Ninguna,Si,Balanceada
+686,59,Masculino,70,Si,178.7,175,Si,Positivo,162,253.5,Tipo 2,75,95,14.8,Si,Moderada,Si,Alta en carbohidratos
+687,75,Masculino,72,No,113.2,139,Si,Negativo,199,,Gestacional,75,72,15.3,No,Ninguna,No,Baja en protei要as
+688,56,Masculino,92,Si,160.2,126,No,Negativo,,208.7,Tipo 2,95,91,15.4,No,Ninguna,Si,Alta en carbohidratos
+689,31,Femenino,65,Si,170.2,153,No,Negativo,169,202.8,Tipo 1,72,95,13.3,No,Moderada,Si,Alta en carbohidratos
+690,48,Femenino,96,No,155.1,143,Si,Positivo,177,217.6,Tipo 1,66,96,16.5,No,Baja,No,Alta en grasas
+691,75,Masculino,64,No,89.7,161,Si,Negativo,157,105.9,,95,85,12.2,No,Moderada,No,Alta en grasas
+692,22,Femenino,74,No,183.9,138,No,Negativo,190,179.1,Ninguno,68,81,14.1,Si,,No,Alta en grasas
+693,52,Femenino,85,No,140.1,100,No,Negativo,188,221.2,Tipo 1,91,63,16.7,No,Alta,Si,Alta en grasas
+694,40,Femenino,60,No,106.7,177,Si,Negativo,150,219.5,Tipo 1,70,90,15.4,No,Alta,No,Alta en carbohidratos
+695,46,Femenino,64,Si,125.3,138,Si,Positivo,152,258.6,Ninguno,67,77,13.6,No,Alta,Si,Alta en grasas
+696,60,Masculino,53,No,74.9,110,Si,Negativo,162,231,,92,97,16.2,Si,Alta,Si,Baja en protei要as
+697,28,Masculino,70,Si,86.6,155,No,Negativo,177,298.4,Gestacional,82,,15.4,,Baja,Si,Alta en grasas
+698,35,Femenino,62,Si,169.5,152,No,Positivo,,156.8,Ninguno,84,82,16.8,Si,Baja,No,Alta en grasas
+699,64,Masculino,71,No,70,172,No,Negativo,174,171.8,Tipo 2,67,81,16.4,Si,Ninguna,Si,Alta en grasas
+700,29,Masculino,68,No,124.2,117,No,Negativo,182,176.8,Tipo 2,81,61,15.7,Si,Alta,No,
+701,26,Masculino,83,No,137.9,106,No,Positivo,187,193.2,Gestacional,63,90,14.9,Si,Moderada,No,Baja en protei要as
+702,27,Femenino,63,Si,77.1,95,No,Positivo,155,267.2,Tipo 1,99,70,12.8,Si,Alta,No,Baja en protei要as
+703,75,Femenino,53,No,196.5,108,Si,Positivo,193,147.2,Tipo 1,62,87,13.6,No,Baja,No,Alta en carbohidratos
+704,61,Femenino,97,No,99.4,145,Si,Negativo,194,255.2,Ninguno,88,91,14.5,No,Alta,No,Alta en carbohidratos
+705,34,Masculino,95,No,109.5,117,No,Negativo,181,181.1,Tipo 2,88,64,15.6,Si,Baja,Si,
+706,78,Femenino,,No,109.5,155,Si,Positivo,194,220.4,Tipo 1,93,97,15.1,Si,Ninguna,Si,Balanceada
+707,55,Femenino,78,No,100,127,No,Positivo,196,226.5,Gestacional,93,69,13.7,Si,,Si,Alta en carbohidratos
+708,24,Masculino,96,Si,70.2,126,Si,Positivo,170,174.6,Gestacional,87,99,12,No,Ninguna,Si,Alta en carbohidratos
+709,63,Femenino,77,Si,164.8,157,No,Negativo,165,202.5,Tipo 2,72,83,15,No,Baja,Si,Alta en grasas
+710,30,Femenino,84,Si,195.7,175,Si,Negativo,170,182.6,Gestacional,74,94,13.7,Si,Alta,No,
+711,57,Masculino,57,No,99.2,179,Si,Positivo,160,113.8,Gestacional,82,82,16.4,No,Alta,No,Alta en carbohidratos
+712,59,Masculino,65,No,156.2,138,No,Negativo,186,,Tipo 2,,,12.1,No,Moderada,Si,Alta en carbohidratos
+713,26,Masculino,91,No,166.4,132,No,Positivo,185,119.5,Ninguno,63,60,15.5,Si,Baja,Si,Baja en protei要as
+714,67,Femenino,85,Si,180.3,125,Si,Negativo,184,181,Ninguno,,90,17.6,Si,Moderada,Si,Balanceada
+715,44,Femenino,79,No,124.9,147,Si,Negativo,168,218.6,Gestacional,99,90,13,No,Ninguna,No,Baja en protei要as
+716,75,Femenino,67,No,109.4,102,No,Negativo,169,215.9,Ninguno,68,93,14.8,No,Alta,No,Alta en carbohidratos
+717,19,Masculino,51,No,112.3,141,Si,Negativo,167,232.5,Ninguno,64,68,12.5,,Baja,No,Baja en protei要as
+718,22,Masculino,98,Si,162.6,147,No,Positivo,196,119.1,Gestacional,91,81,15.8,Si,Moderada,Si,Baja en protei要as
+719,46,Femenino,62,No,176.2,121,No,Negativo,190,230.4,Ninguno,79,72,,Si,Moderada,Si,Alta en carbohidratos
+720,54,Femenino,53,Si,93.6,170,Si,Negativo,198,162.4,Gestacional,70,84,14.4,Si,Moderada,Si,Alta en grasas
+721,55,Masculino,75,No,118.2,,No,Positivo,163,179.8,Tipo 1,74,77,15.1,No,Alta,,Alta en carbohidratos
+722,36,Masculino,74,Si,187.3,172,Si,Negativo,164,271.6,Tipo 2,91,71,17.4,No,Alta,No,Alta en grasas
+723,25,Masculino,79,Si,174.9,,Si,Positivo,180,101.8,Tipo 2,87,99,13.2,Si,Alta,Si,Alta en carbohidratos
+724,65,Masculino,60,Si,198,145,No,Positivo,150,217.7,Ninguno,81,76,12.1,No,,Si,Alta en carbohidratos
+725,62,Femenino,56,No,168.1,117,Si,Negativo,152,219.7,,76,74,17.2,Si,Alta,Si,Alta en carbohidratos
+726,18,Masculino,80,No,121.1,,No,Negativo,165,179.3,Ninguno,85,74,15.5,No,Baja,No,Balanceada
+727,39,Femenino,93,Si,146.8,131,No,Positivo,172,147.4,Tipo 2,66,74,17.3,Si,Moderada,No,Alta en grasas
+728,69,Femenino,59,Si,155.9,171,No,Positivo,160,146.9,Tipo 1,85,98,15.6,No,Moderada,Si,Balanceada
+729,34,Femenino,88,No,80.2,137,Si,Positivo,161,276.7,Tipo 1,84,72,16.9,,Ninguna,No,Alta en carbohidratos
+730,24,Masculino,62,No,140.8,129,No,Negativo,159,188.4,Tipo 2,69,76,14.6,Si,Alta,No,Baja en protei要as
+731,42,Masculino,80,Si,162.2,152,Si,Positivo,181,166.2,Tipo 1,78,91,16.5,Si,Moderada,No,Balanceada
+732,62,Masculino,56,No,,,No,Positivo,165,189.8,Tipo 2,70,68,17.5,Si,Alta,No,Alta en grasas
+733,21,Masculino,98,No,171.5,161,No,Positivo,157,233.9,Tipo 1,72,99,15.4,Si,Baja,No,Alta en carbohidratos
+734,53,Femenino,91,No,145.9,177,No,Negativo,187,129.2,Gestacional,67,79,13.1,Si,,Si,Balanceada
+735,23,Masculino,91,No,193.8,169,Si,Positivo,161,189.9,Gestacional,99,85,13.6,,Alta,Si,Baja en protei要as
+736,77,Masculino,85,Si,75.5,93,Si,Negativo,173,217.6,Tipo 2,63,86,13.2,Si,Moderada,Si,Balanceada
+737,48,Femenino,69,No,,127,No,Negativo,177,289.7,Tipo 1,90,80,13.5,Si,,No,Alta en grasas
+738,36,Masculino,53,No,148.2,116,No,Positivo,157,150.5,Ninguno,87,77,13.8,Si,Alta,No,Balanceada
+739,78,Femenino,,Si,108.6,98,Si,Negativo,177,171.9,Tipo 1,70,72,15.3,Si,Moderada,No,Baja en protei要as
+740,61,Femenino,50,Si,162.9,105,Si,Positivo,185,175.9,Gestacional,60,75,15.5,Si,Moderada,No,Baja en protei要as
+741,71,Femenino,93,No,168.7,145,Si,Negativo,175,221.1,Gestacional,97,68,14.6,No,Moderada,Si,Alta en grasas
+742,56,Femenino,94,No,83.3,165,No,Negativo,157,171.3,Tipo 1,83,71,15.7,Si,Moderada,,Baja en protei要as
+743,44,Femenino,91,No,136.8,,Si,Positivo,,206.7,Tipo 1,90,97,12.5,Si,Baja,Si,Alta en carbohidratos
+744,27,Femenino,96,No,136.2,177,No,Positivo,177,256.4,Ninguno,85,78,12.5,Si,Moderada,Si,Baja en protei要as
+745,43,Femenino,62,Si,118,103,Si,Positivo,177,241.1,Ninguno,64,66,13,No,Ninguna,Si,
+746,36,Femenino,71,Si,191.3,114,No,Negativo,186,189.3,Tipo 1,79,94,15.1,No,Moderada,,Balanceada
+747,56,Masculino,70,Si,177.6,123,No,Negativo,190,272.8,Tipo 1,,77,13.3,Si,Alta,No,
+748,79,Masculino,71,No,160.6,156,No,Positivo,185,211.6,Tipo 1,92,75,13.7,Si,Ninguna,,Alta en carbohidratos
+749,20,Masculino,77,No,162.9,113,Si,Positivo,176,208,Tipo 1,97,98,14.4,No,Baja,Si,Balanceada
+750,62,Masculino,58,No,130,162,Si,Negativo,,106.8,Tipo 2,86,63,16.9,No,Ninguna,No,Baja en protei要as
+751,30,Femenino,75,No,189.7,,Si,Negativo,158,297.3,Tipo 1,93,84,12.1,No,Ninguna,Si,
+752,67,Masculino,58,Si,160.3,109,No,Negativo,182,124.6,Ninguno,74,,15.9,Si,Ninguna,Si,Baja en protei要as
+753,45,Femenino,64,Si,164.8,153,No,Positivo,169,146.2,Gestacional,91,99,16,,Alta,No,Balanceada
+754,79,Masculino,59,No,182,99,Si,Negativo,162,110.3,Tipo 2,80,72,16.8,No,Alta,Si,Alta en grasas
+755,75,Masculino,73,Si,105.6,172,No,Positivo,177,228,Tipo 1,64,76,17.6,Si,Alta,Si,Baja en protei要as
+756,37,Masculino,91,No,174.9,156,No,Negativo,197,144.9,Gestacional,,96,12.1,No,Baja,Si,Baja en protei要as
+757,45,Femenino,57,No,95.4,113,No,Negativo,178,136,Tipo 2,97,65,12.9,No,Alta,No,Alta en grasas
+758,25,Masculino,73,Si,114.9,,Si,Positivo,162,117.7,Gestacional,81,,17.3,No,Alta,No,Alta en grasas
+759,78,Femenino,65,No,113.6,156,No,Positivo,195,120.7,Tipo 1,77,72,14.8,Si,Ninguna,No,Balanceada
+760,58,Femenino,98,No,197.2,147,Si,Positivo,184,216.9,Tipo 1,73,85,15.4,No,,No,
+761,56,Masculino,75,Si,181.3,,Si,Negativo,155,237.6,Ninguno,69,73,16,No,Moderada,Si,Baja en protei要as
+762,18,Masculino,76,No,161.2,169,Si,Negativo,,179.5,Tipo 1,72,90,16.1,Si,Alta,No,Balanceada
+763,20,Masculino,86,No,164.5,104,Si,Negativo,154,196,Tipo 1,90,63,17.6,No,Baja,No,Baja en protei要as
+764,30,Femenino,53,Si,143.1,,Si,Positivo,196,237.2,Tipo 2,89,98,18,Si,Baja,No,Alta en carbohidratos
+765,45,Masculino,99,No,193.1,165,No,Negativo,174,103.5,Ninguno,62,67,16.3,No,Moderada,Si,Alta en carbohidratos
+766,79,Femenino,73,Si,134.5,142,Si,Positivo,151,164.6,Tipo 2,89,84,13.7,Si,Baja,No,Alta en carbohidratos
+767,74,Femenino,68,No,119.5,133,Si,Positivo,,294.6,,65,72,17.3,No,Baja,No,Baja en protei要as
+768,77,Masculino,85,Si,91.2,115,Si,Positivo,179,216,Tipo 1,88,91,12.3,No,Ninguna,Si,Alta en carbohidratos
+769,66,Masculino,88,Si,172.2,136,No,Negativo,199,150.8,Gestacional,67,97,13.4,No,Moderada,Si,Alta en carbohidratos
+770,42,Femenino,59,Si,165.5,,No,Negativo,194,204.3,Tipo 2,92,97,17.4,No,Ninguna,Si,Balanceada
+771,73,Femenino,,No,120,176,No,Positivo,154,168.5,Tipo 1,76,87,13.5,No,Ninguna,,Balanceada
+772,50,Femenino,67,Si,73.3,,No,Negativo,182,206.4,Tipo 1,70,89,13.3,Si,Alta,No,Alta en grasas
+773,55,Masculino,68,Si,179.1,173,Si,Positivo,150,125.1,Tipo 2,72,62,12.8,Si,Moderada,Si,Alta en grasas
+774,70,Femenino,85,Si,71.5,101,Si,Positivo,167,126.5,Tipo 2,70,87,17.2,No,Alta,No,Alta en grasas
+775,23,Masculino,59,Si,161.5,176,No,Negativo,181,128.7,Tipo 2,90,62,15,No,Alta,No,Alta en grasas
+776,75,Femenino,82,Si,196.1,93,No,Positivo,196,288,Tipo 2,87,93,16,,Ninguna,No,Balanceada
+777,61,Femenino,,No,126.9,176,No,Positivo,198,246.6,Tipo 2,65,75,13.4,Si,Baja,,Balanceada
+778,62,Masculino,54,No,100.5,137,No,Negativo,160,132.5,Tipo 1,75,81,16.5,Si,Moderada,No,Balanceada
+779,49,Femenino,96,No,161.6,144,Si,Positivo,170,137.7,Tipo 2,63,,16.6,No,Baja,Si,Alta en carbohidratos
+780,62,Masculino,98,No,176.2,90,No,Positivo,,246.2,Tipo 1,94,97,13.9,Si,Ninguna,No,Alta en carbohidratos
+781,78,Masculino,84,No,141,178,No,Positivo,174,131.2,Tipo 1,85,67,14.5,No,Ninguna,No,Alta en grasas
+782,64,Femenino,93,No,195.7,155,No,Positivo,171,146.9,Tipo 2,71,67,13.3,No,Ninguna,No,Alta en carbohidratos
+783,38,Masculino,83,No,76.7,,No,Positivo,176,292.7,Tipo 2,70,65,,No,Ninguna,Si,Baja en protei要as
+784,33,Masculino,82,Si,135.6,92,No,Positivo,198,151.1,Ninguno,96,73,15.9,Si,Ninguna,No,Balanceada
+785,71,Femenino,70,No,163.4,110,No,Positivo,162,232.3,Tipo 1,84,91,17.6,No,Ninguna,No,Alta en grasas
+786,38,Masculino,66,Si,182.1,,No,Negativo,182,295.7,Tipo 2,77,94,13.8,No,Baja,Si,Alta en grasas
+787,28,Masculino,71,Si,93.3,173,Si,Negativo,183,174.9,Tipo 2,78,69,16.7,No,Alta,No,Baja en protei要as
+788,77,Masculino,97,No,174,138,Si,Positivo,,103.5,Tipo 2,82,62,16.6,Si,Baja,,Alta en carbohidratos
+789,54,Femenino,86,Si,141.9,175,Si,Positivo,184,148.8,Ninguno,97,71,16.1,Si,Moderada,Si,Alta en grasas
+790,53,Masculino,64,Si,121.6,174,Si,Negativo,150,266.2,Ninguno,77,90,17.8,Si,Baja,,Alta en carbohidratos
+791,52,Femenino,84,Si,87.1,151,Si,Negativo,170,272.9,,85,88,14.4,No,Ninguna,No,Alta en carbohidratos
+792,36,Femenino,77,Si,182.5,127,Si,Negativo,197,,Tipo 1,65,64,12.8,Si,Baja,No,Baja en protei要as
+793,37,Masculino,56,No,90.4,104,No,Negativo,155,122.6,Gestacional,63,84,16,No,Alta,No,Alta en grasas
+794,74,Masculino,81,No,110.3,141,No,Negativo,177,259.1,Tipo 2,88,90,16.4,Si,Moderada,No,Alta en carbohidratos
+795,35,Masculino,60,No,107.7,168,Si,Positivo,166,283.7,,93,80,15.5,No,Baja,Si,Alta en carbohidratos
+796,64,Femenino,59,No,183.3,135,No,Negativo,154,220.1,Ninguno,76,79,13.2,Si,Alta,Si,Baja en protei要as
+797,58,Masculino,58,No,157.5,114,Si,Negativo,180,288.2,Gestacional,75,98,,No,Baja,Si,Baja en protei要as
+798,66,Masculino,63,No,173.6,110,No,Negativo,154,265.4,Ninguno,61,81,13.9,Si,Moderada,No,Alta en carbohidratos
+799,31,Masculino,62,No,102.6,177,No,Positivo,187,233.4,Tipo 2,93,63,14.6,Si,Baja,,Baja en protei要as
+800,32,Masculino,74,No,151.2,94,No,Positivo,152,215.4,Ninguno,67,72,15.9,Si,Ninguna,No,Alta en carbohidratos
+801,48,Masculino,51,No,144.3,159,No,Positivo,172,169.7,Gestacional,72,79,16.5,,Baja,Si,Alta en grasas
+802,18,Femenino,84,No,178.3,136,No,Positivo,186,131.9,Tipo 2,67,72,13.4,Si,Alta,No,Balanceada
+803,70,Femenino,56,Si,187.8,176,No,Positivo,,221,Gestacional,89,76,,Si,Baja,No,Baja en protei要as
+804,71,Masculino,70,No,71.6,157,Si,Positivo,159,163.6,Ninguno,91,95,13.6,Si,,No,Balanceada
+805,71,Masculino,67,Si,157.6,107,Si,Negativo,159,273.3,Gestacional,95,92,13.2,Si,Moderada,,Alta en carbohidratos
+806,20,Masculino,52,Si,76.7,110,No,Positivo,168,298.7,Gestacional,89,60,16.7,No,Baja,Si,
+807,33,Masculino,91,Si,141.4,175,Si,Positivo,166,250.5,Tipo 1,60,74,,Si,Moderada,No,Alta en carbohidratos
+808,40,Femenino,88,Si,,112,No,Negativo,170,118.1,Ninguno,98,72,14.2,No,Moderada,No,Balanceada
+809,74,Masculino,90,No,109.9,153,Si,Positivo,163,157.7,Ninguno,76,76,16.5,No,Baja,No,Alta en carbohidratos
+810,28,Femenino,98,Si,115.9,156,No,Negativo,158,121.8,Gestacional,79,,17.4,No,Alta,Si,Baja en protei要as
+811,29,Femenino,60,No,150.8,129,Si,Negativo,195,230.1,Tipo 1,83,67,17.1,No,Moderada,Si,Alta en grasas
+812,27,Masculino,,No,113.4,99,No,Positivo,150,253,Ninguno,81,86,13.1,Si,Moderada,Si,Alta en grasas
+813,49,Femenino,73,Si,165.3,178,Si,Negativo,194,285.1,Tipo 2,88,82,17.7,No,Baja,No,Baja en protei要as
+814,33,Femenino,95,No,122.6,141,No,Negativo,162,,Gestacional,81,67,14.3,No,Baja,Si,Alta en grasas
+815,25,Femenino,68,Si,78.9,161,Si,Negativo,153,280.3,Ninguno,68,67,14,No,Baja,No,Balanceada
+816,55,Femenino,53,Si,171.9,164,No,Negativo,150,275.6,Tipo 2,96,85,12.4,No,Baja,No,Alta en carbohidratos
+817,29,Masculino,75,No,107.1,150,No,Positivo,198,163.4,Ninguno,69,72,14.9,Si,Baja,Si,Alta en carbohidratos
+818,41,Masculino,87,No,,153,No,Negativo,189,273.8,Tipo 2,95,98,12.7,Si,Ninguna,No,Alta en carbohidratos
+819,45,Femenino,91,Si,159.1,94,Si,Positivo,181,175.1,,96,96,13.5,No,Baja,Si,Balanceada
+820,70,Masculino,81,No,113.2,142,Si,Negativo,183,159.4,Ninguno,87,87,13.9,No,Alta,No,Balanceada
+821,25,Masculino,88,No,77.4,144,Si,Negativo,177,229.8,Ninguno,87,84,16.9,No,,No,Balanceada
+822,75,Masculino,94,No,118.6,126,No,Negativo,180,165.7,Tipo 1,80,75,17.3,Si,Alta,Si,Baja en protei要as
+823,45,Masculino,95,Si,192.8,145,Si,Positivo,157,226,Gestacional,83,61,13.8,Si,Alta,No,Balanceada
+824,53,Masculino,85,Si,153.4,148,No,Positivo,188,222,Tipo 2,99,77,17.2,Si,Ninguna,No,Alta en grasas
+825,43,Femenino,89,No,157.3,158,Si,Positivo,175,212.7,Ninguno,61,76,17.1,Si,Baja,No,Baja en protei要as
+826,25,Masculino,86,No,152.2,162,Si,Negativo,183,176.1,Ninguno,67,89,16.6,Si,Moderada,No,Baja en protei要as
+827,75,Masculino,82,No,95.9,148,Si,Negativo,152,209.7,Tipo 2,86,,12.9,No,Alta,No,Baja en protei要as
+828,77,Masculino,85,No,124.4,91,Si,Negativo,199,219.3,Gestacional,81,72,16.1,Si,Baja,No,Balanceada
+829,67,Masculino,52,No,167.6,154,No,Negativo,161,209.1,Tipo 1,96,91,17.7,Si,Baja,No,Baja en protei要as
+830,45,Femenino,58,Si,83.2,149,Si,Positivo,,188.9,Tipo 1,86,88,16.1,No,Ninguna,No,Balanceada
+831,45,Femenino,57,No,106.1,140,Si,Negativo,193,102.9,,88,89,14,Si,Ninguna,Si,Balanceada
+832,54,Femenino,82,Si,105.9,119,No,Positivo,154,217.4,Tipo 2,62,,15,Si,Ninguna,Si,Baja en protei要as
+833,58,Femenino,55,No,126.2,100,No,Negativo,179,133.7,Ninguno,72,72,15.9,Si,Moderada,No,Alta en carbohidratos
+834,53,Masculino,90,Si,197.4,165,Si,Positivo,179,228.5,Tipo 2,69,80,15.1,No,Alta,No,Alta en carbohidratos
+835,44,Femenino,88,No,78.8,128,Si,Positivo,166,251.9,Tipo 1,95,89,12.7,Si,Ninguna,Si,Baja en protei要as
+836,71,Masculino,53,Si,137.4,,No,Negativo,197,200.1,Gestacional,68,80,13.9,No,Ninguna,No,Alta en carbohidratos
+837,34,Masculino,62,No,93.3,166,No,Negativo,196,208.5,Tipo 2,,76,16.8,No,Ninguna,Si,Alta en grasas
+838,26,Masculino,98,Si,196.2,161,No,Positivo,172,290.3,Tipo 1,93,99,17.2,Si,Alta,Si,Alta en grasas
+839,50,Masculino,51,Si,84.7,152,Si,Negativo,164,,Ninguno,60,78,12.8,Si,Alta,Si,Balanceada
+840,70,Masculino,54,Si,122.5,153,Si,Negativo,186,282.8,Tipo 2,91,74,17.7,Si,Ninguna,No,Alta en carbohidratos
+841,37,Femenino,93,Si,165.9,150,Si,Positivo,170,262.8,,84,68,14,Si,Ninguna,No,Alta en grasas
+842,30,Femenino,76,Si,161.6,143,No,Positivo,163,121.8,Ninguno,88,69,,No,Baja,No,Baja en protei要as
+843,45,Femenino,81,Si,125,162,No,Positivo,151,129.8,Ninguno,66,90,16.5,Si,Ninguna,,Alta en carbohidratos
+844,65,Femenino,70,No,115,147,No,Positivo,160,205.3,Tipo 1,62,82,,No,Moderada,Si,Alta en grasas
+845,46,Masculino,57,Si,121.7,174,Si,Negativo,,149.2,Tipo 2,79,89,17.7,No,Moderada,Si,Alta en grasas
+846,30,Femenino,87,No,104.4,145,No,Positivo,187,195.3,Ninguno,79,92,13.9,No,Ninguna,No,Baja en protei要as
+847,63,Masculino,57,No,96.7,123,Si,Positivo,183,178.9,Gestacional,89,68,17.2,No,Alta,Si,Balanceada
+848,52,Femenino,99,No,132.8,120,No,Positivo,187,209.9,Tipo 2,94,60,12.8,No,Baja,Si,Baja en protei要as
+849,78,Masculino,52,No,104.9,141,Si,Negativo,199,249.4,Gestacional,94,94,,Si,Alta,No,Balanceada
+850,23,Masculino,93,No,107.4,178,Si,Positivo,183,243.1,Ninguno,98,70,16.5,No,Ninguna,Si,Alta en grasas
+851,35,Femenino,52,Si,155.4,165,No,Negativo,167,204.2,Gestacional,86,,16.1,No,Moderada,Si,Balanceada
+852,68,Masculino,,Si,195.9,90,Si,Positivo,179,264.5,Tipo 1,85,75,13.5,Si,Baja,No,Alta en grasas
+853,22,Masculino,55,Si,148.5,144,No,Positivo,164,186.2,Gestacional,,68,17.2,Si,Alta,No,Alta en grasas
+854,64,Femenino,51,No,,111,Si,Negativo,176,279.3,Tipo 2,76,91,13,No,Alta,Si,Alta en carbohidratos
+855,42,Masculino,72,Si,79.8,129,No,Positivo,183,114.3,Gestacional,77,74,12.3,No,Ninguna,No,Balanceada
+856,19,Femenino,,Si,193.7,90,No,Positivo,187,290.9,Gestacional,88,71,16.3,Si,,Si,Balanceada
+857,27,Femenino,51,Si,108.6,154,Si,Negativo,182,230.9,Tipo 1,79,92,14.9,No,Moderada,,Balanceada
+858,73,Femenino,87,Si,82,152,No,Positivo,173,176,,86,73,17.1,Si,Ninguna,Si,Baja en protei要as
+859,47,Masculino,66,Si,147.9,143,Si,Positivo,164,139.4,Gestacional,77,67,14.3,Si,Baja,No,Alta en carbohidratos
+860,67,Masculino,84,No,151.1,131,No,Positivo,179,195.8,Ninguno,63,67,13,No,Alta,Si,Alta en carbohidratos
+861,76,Masculino,83,Si,154.3,110,No,Positivo,191,138.9,Ninguno,60,86,17,Si,Ninguna,No,Alta en carbohidratos
+862,62,Femenino,72,No,104.8,168,No,Negativo,166,133.3,Tipo 2,60,71,15.3,No,Alta,No,Baja en protei要as
+863,22,Masculino,79,No,72,170,No,Positivo,,223.5,Ninguno,85,60,13.1,No,Alta,No,Balanceada
+864,72,Femenino,57,No,,111,Si,Negativo,178,204.6,Ninguno,79,99,16.3,No,Ninguna,,Balanceada
+865,73,Femenino,71,No,102.6,127,No,Positivo,153,234,Ninguno,,70,15.1,Si,Ninguna,No,Balanceada
+866,50,Masculino,93,No,157.9,169,No,Negativo,159,285.9,Ninguno,69,,15.6,No,Ninguna,No,Alta en carbohidratos
+867,71,Femenino,85,Si,,97,Si,Positivo,166,206.5,Tipo 1,70,90,14.8,Si,Ninguna,No,Alta en carbohidratos
+868,18,Masculino,54,Si,149.3,151,Si,Negativo,159,216.2,Ninguno,64,76,17,No,Ninguna,Si,Alta en grasas
+869,35,Masculino,62,Si,110.7,136,Si,Positivo,,117.9,Tipo 1,60,92,17,No,Alta,Si,Baja en protei要as
+870,49,Masculino,78,No,105.2,106,Si,Negativo,169,243.5,Tipo 1,76,91,16.3,Si,Moderada,No,Baja en protei要as
+871,64,Masculino,80,Si,147.7,106,Si,Negativo,173,180,Ninguno,81,88,12.6,No,Moderada,No,Alta en carbohidratos
+872,66,Masculino,96,Si,182.6,179,Si,Positivo,154,295.3,Gestacional,93,80,17,No,Ninguna,Si,Alta en grasas
+873,28,Femenino,65,No,193.1,102,No,Negativo,183,264.6,Tipo 1,88,80,16,Si,Alta,Si,Balanceada
+874,38,Femenino,91,No,83.8,106,Si,Positivo,155,204.5,Gestacional,63,99,16.2,,Moderada,No,Alta en carbohidratos
+875,43,Femenino,79,No,90.1,127,No,Positivo,151,124.6,Gestacional,64,82,14.2,Si,Moderada,Si,Baja en protei要as
+876,42,Masculino,65,No,,170,Si,Positivo,162,271.9,Ninguno,70,65,17.3,No,Moderada,Si,Baja en protei要as
+877,39,Masculino,61,Si,,167,No,Positivo,192,260,Tipo 2,80,81,16.4,Si,Alta,No,Baja en protei要as
+878,76,Masculino,66,No,184.8,134,No,Positivo,192,136.9,Ninguno,94,97,12.7,Si,Ninguna,,Balanceada
+879,44,Femenino,65,No,96.3,95,No,Negativo,197,159.1,Tipo 2,71,96,14.4,No,Ninguna,No,Baja en protei要as
+880,66,Masculino,61,Si,146.4,124,Si,Positivo,160,258.7,Tipo 2,85,67,17.3,,Ninguna,Si,Balanceada
+881,30,Femenino,57,Si,161.1,103,Si,Positivo,196,137,Ninguno,78,94,12.3,No,Baja,No,Balanceada
+882,50,Femenino,69,No,158.4,161,Si,Positivo,172,283.6,Ninguno,66,70,17.8,No,Baja,No,Balanceada
+883,51,Masculino,52,Si,,150,Si,Positivo,165,184.9,Tipo 2,66,83,16.1,Si,Baja,Si,Alta en carbohidratos
+884,58,Masculino,65,No,,104,No,Positivo,180,117.4,Ninguno,85,80,15.8,No,Alta,No,Balanceada
+885,52,Femenino,79,No,145.8,143,Si,Positivo,160,263.1,Tipo 2,99,61,13.6,Si,Moderada,,Alta en grasas
+886,18,Masculino,94,Si,102.9,116,No,Negativo,165,174.7,Gestacional,64,99,13.5,Si,Moderada,Si,Baja en protei要as
+887,38,Femenino,72,Si,128.5,102,No,Negativo,157,205.3,Ninguno,80,78,17.7,Si,Alta,Si,Alta en carbohidratos
+888,65,Masculino,77,No,194.5,120,Si,Positivo,153,122.5,Gestacional,73,98,13.8,Si,Alta,Si,Baja en protei要as
+889,72,Masculino,89,No,121.9,124,Si,Negativo,189,100.5,Tipo 1,63,87,16.7,No,Ninguna,Si,Balanceada
+890,23,Femenino,54,No,179.2,149,Si,Positivo,153,227.6,Gestacional,82,76,14.4,No,Ninguna,Si,Alta en carbohidratos
+891,45,Masculino,69,Si,94.5,95,No,Positivo,174,203,Gestacional,79,65,,Si,Baja,No,Alta en grasas
+892,34,Femenino,89,No,,158,Si,Positivo,152,218.7,Tipo 2,74,78,12.1,,Baja,No,Balanceada
+893,22,Masculino,93,No,197,175,No,Positivo,,258.7,Gestacional,88,97,15.3,No,Alta,No,Baja en protei要as
+894,48,Femenino,50,No,83.2,147,Si,Positivo,152,229.3,Ninguno,67,87,17.9,Si,Baja,Si,Alta en grasas
+895,22,Femenino,79,No,71.1,138,No,Negativo,176,135,Tipo 2,78,61,14.2,No,Moderada,No,Balanceada
+896,55,Masculino,70,No,126.4,112,Si,Negativo,178,172.2,Tipo 1,98,97,14.1,Si,Alta,Si,Alta en grasas
+897,20,Femenino,69,Si,82,178,Si,Negativo,181,281.2,Ninguno,87,96,14.1,No,Alta,No,Balanceada
+898,70,Masculino,55,No,167.3,123,No,Negativo,199,254,Tipo 1,86,63,15.1,,Moderada,Si,Alta en carbohidratos
+899,40,Masculino,71,No,188.9,115,Si,Positivo,168,211.3,Gestacional,63,81,14.6,No,Ninguna,No,Balanceada
+900,54,Masculino,,No,126.4,136,Si,Negativo,170,151.1,Ninguno,74,85,17.3,Si,Ninguna,Si,Alta en carbohidratos
+901,70,Femenino,57,No,103.6,94,Si,Positivo,154,160.4,Ninguno,94,95,15,Si,Moderada,No,Balanceada
+902,54,Femenino,88,Si,126.5,179,Si,Negativo,167,246.4,Tipo 1,96,72,15,Si,Moderada,Si,Balanceada
+903,27,Masculino,81,Si,164,109,Si,Negativo,177,270.2,Ninguno,60,,12.8,,Baja,No,Baja en protei要as
+904,27,Masculino,82,Si,71.2,95,Si,Negativo,191,234.3,Ninguno,62,76,17.9,Si,Alta,Si,Alta en grasas
+905,36,Femenino,65,No,146.6,,Si,Negativo,171,261.9,Ninguno,83,95,13.5,No,Baja,No,Alta en grasas
+906,34,Masculino,61,No,149.7,148,No,Positivo,170,,Gestacional,86,78,12.4,No,,No,Alta en grasas
+907,38,Masculino,87,Si,152.9,153,No,Negativo,155,129.9,Tipo 1,99,,16,No,Baja,No,Balanceada
+908,31,Femenino,83,Si,101.5,107,Si,Negativo,150,184.8,Ninguno,95,99,15.6,No,Moderada,Si,Balanceada
+909,26,Masculino,63,Si,162.8,93,Si,Positivo,154,130.6,Tipo 2,93,,14.5,No,Baja,Si,Balanceada
+910,63,Femenino,85,No,81.9,106,Si,Positivo,190,147,Tipo 2,88,,14.5,No,,Si,Alta en carbohidratos
+911,18,Masculino,82,No,95.9,103,No,Negativo,161,273.9,Tipo 2,,77,16.7,No,Ninguna,Si,Alta en carbohidratos
+912,68,Femenino,72,Si,184.1,167,No,Positivo,175,194.6,Tipo 2,83,99,13.2,Si,Moderada,Si,Baja en protei要as
+913,62,Masculino,99,Si,166,102,Si,Positivo,195,207.1,Gestacional,63,92,16.9,No,Baja,No,Balanceada
+914,30,Masculino,94,Si,71.8,96,No,Positivo,183,135.7,Ninguno,62,71,15.9,Si,Alta,Si,Alta en grasas
+915,21,Femenino,51,No,102.3,133,Si,Negativo,198,162.5,Tipo 1,93,67,14.5,No,Baja,No,Alta en grasas
+916,79,Masculino,90,No,97.9,104,Si,Positivo,163,146,Ninguno,82,83,14.7,,Baja,No,Baja en protei要as
+917,18,Femenino,70,No,105.2,108,Si,Negativo,175,141.2,Gestacional,82,75,13.5,Si,Alta,Si,Alta en grasas
+918,66,Masculino,51,Si,102.2,152,Si,Negativo,194,227.6,Tipo 2,64,63,16.5,No,Moderada,No,Baja en protei要as
+919,57,Femenino,76,Si,78.1,124,No,Negativo,176,151.4,Gestacional,90,97,15.1,Si,Ninguna,Si,Balanceada
+920,49,Femenino,58,No,129.7,170,No,Negativo,158,226.4,Ninguno,65,86,13.9,No,Ninguna,Si,Alta en grasas
+921,51,Femenino,50,Si,165.3,124,Si,Positivo,175,111.7,Tipo 1,96,68,15.6,Si,,,Balanceada
+922,45,Femenino,60,No,148.9,108,No,Negativo,196,128.4,Gestacional,69,75,18,No,Alta,No,
+923,48,Masculino,52,Si,157.5,109,No,Positivo,171,154.9,Tipo 1,99,71,14.6,Si,Baja,Si,Alta en grasas
+924,25,Masculino,72,Si,80.5,124,Si,Negativo,196,219.4,Gestacional,66,90,17.5,Si,Moderada,Si,Alta en carbohidratos
+925,56,Femenino,75,Si,193.7,121,No,Positivo,179,235.2,Tipo 1,98,83,14.1,No,Baja,Si,Alta en grasas
+926,43,Femenino,53,Si,179,137,Si,Negativo,192,188.5,Tipo 1,97,,12.3,No,Ninguna,No,Balanceada
+927,75,Femenino,67,No,174.7,133,Si,Positivo,197,189.2,Tipo 2,80,84,,Si,Baja,Si,Baja en protei要as
+928,51,Masculino,55,Si,177,113,Si,Negativo,166,244.9,Tipo 1,79,93,14.5,No,Alta,No,Balanceada
+929,71,Masculino,84,No,191.3,150,Si,Negativo,175,103.2,Tipo 2,62,62,13.3,Si,Alta,No,
+930,71,Masculino,71,No,140.8,106,No,Positivo,185,168.2,Ninguno,81,83,12,No,Moderada,Si,Balanceada
+931,20,Masculino,92,No,96,160,Si,Negativo,150,263.7,Ninguno,63,68,17.5,Si,Moderada,No,Alta en grasas
+932,76,Femenino,64,Si,150.2,139,No,Negativo,157,220.6,Tipo 2,87,85,17.1,No,Ninguna,No,Baja en protei要as
+933,67,Femenino,71,No,166.6,154,Si,Negativo,198,,Tipo 2,71,79,16.5,Si,Moderada,Si,Alta en carbohidratos
+934,29,Femenino,86,No,165.9,,Si,Positivo,184,281.1,Gestacional,97,99,,No,Baja,Si,Balanceada
+935,18,Masculino,91,No,137.8,125,No,Negativo,164,254.5,Gestacional,95,69,12.7,Si,Alta,Si,Alta en grasas
+936,71,Masculino,61,Si,78.9,102,Si,Negativo,196,153,Gestacional,64,78,12.4,Si,,No,Alta en carbohidratos
+937,61,Masculino,96,Si,118.2,159,No,Positivo,171,229.1,Ninguno,72,62,16.3,No,Alta,,Balanceada
+938,22,Femenino,98,No,189.7,147,No,Positivo,163,219.2,Gestacional,82,83,17.6,No,,No,Alta en carbohidratos
+939,47,Femenino,91,Si,146,103,Si,Positivo,175,,Tipo 1,,64,14.6,Si,Alta,No,Balanceada
+940,47,Masculino,87,No,140,126,Si,Positivo,,,Tipo 1,96,62,12.7,Si,Alta,No,Alta en carbohidratos
+941,76,Femenino,67,No,105,168,Si,Positivo,172,168.7,Gestacional,84,86,15.1,Si,Alta,No,Alta en carbohidratos
+942,74,Masculino,94,Si,117.9,157,Si,Negativo,163,223.4,Tipo 1,86,75,14.1,Si,,No,Baja en protei要as
+943,34,Masculino,84,No,186.4,129,Si,Negativo,173,188.5,Ninguno,73,74,14.2,No,Ninguna,Si,Baja en protei要as
+944,65,Femenino,79,Si,156.6,148,Si,Negativo,151,266.4,Tipo 1,95,94,15.7,Si,Moderada,Si,Balanceada
+945,64,Masculino,73,Si,172.4,169,No,Positivo,194,233.9,Ninguno,98,71,16.3,Si,Alta,No,Alta en grasas
+946,40,Femenino,91,No,129.1,105,No,Negativo,175,114,Tipo 2,75,,12.7,Si,Moderada,No,Baja en protei要as
+947,32,Masculino,,Si,151.9,151,Si,Positivo,163,,Tipo 2,81,93,12.2,No,Alta,Si,Alta en carbohidratos
+948,54,Femenino,63,Si,102.3,93,No,Positivo,156,,Tipo 2,80,82,18,Si,Alta,,Baja en protei要as
+949,38,Femenino,55,No,,134,No,Negativo,152,218.6,Tipo 2,80,90,13.4,No,Alta,No,Baja en protei要as
+950,31,Femenino,52,No,,179,Si,Positivo,196,236,Tipo 1,67,79,12.3,No,Moderada,,Balanceada
+951,19,Masculino,65,Si,127.5,117,Si,Positivo,172,146.2,Gestacional,75,71,13.1,No,Moderada,Si,Baja en protei要as
+952,28,Masculino,56,Si,154.4,155,No,Negativo,195,191.4,Tipo 1,90,82,12.2,No,Alta,Si,Baja en protei要as
+953,68,Femenino,63,No,191.7,120,Si,Positivo,192,138.1,Ninguno,69,63,14.4,No,Baja,No,Alta en carbohidratos
+954,56,Femenino,58,Si,78.3,92,No,Positivo,196,110.5,Tipo 1,91,82,16.8,No,Moderada,Si,Baja en protei要as
+955,55,Masculino,64,Si,177.2,97,Si,Negativo,194,175.7,Tipo 1,93,60,14,,Ninguna,Si,Alta en carbohidratos
+956,77,Masculino,70,Si,108,113,No,Positivo,167,172.6,Ninguno,68,84,14.7,Si,Moderada,No,Baja en protei要as
+957,51,Masculino,84,Si,127.7,104,No,Positivo,187,299.1,Tipo 2,76,61,16.1,Si,Alta,No,Baja en protei要as
+958,55,Femenino,51,Si,72.8,132,No,Negativo,184,189.3,Tipo 2,70,89,,No,Baja,No,Alta en grasas
+959,67,Masculino,76,Si,109.1,120,No,Negativo,164,166.7,Tipo 2,91,,17.2,Si,Alta,Si,Baja en protei要as
+960,51,Masculino,51,Si,135.3,162,Si,Negativo,174,216.1,Gestacional,69,80,17.2,Si,,No,Alta en carbohidratos
+961,35,Femenino,84,No,77.3,134,Si,Negativo,186,117.8,Ninguno,81,84,12.1,No,Moderada,Si,Alta en carbohidratos
+962,47,Masculino,67,No,133.8,155,No,Positivo,177,292.3,Ninguno,76,79,16.7,Si,Moderada,No,Balanceada
+963,32,Masculino,63,No,190.5,97,No,Positivo,159,227,Tipo 1,63,81,14.8,,Alta,No,Balanceada
+964,44,Masculino,69,No,83.7,160,Si,Negativo,188,251,Gestacional,84,80,17.9,Si,Alta,Si,Alta en grasas
+965,68,Femenino,67,No,169.4,,Si,Positivo,166,134.1,Tipo 2,80,92,14.9,No,Ninguna,Si,Alta en carbohidratos
+966,51,Femenino,59,Si,123.3,169,No,Positivo,188,181.9,Gestacional,,97,17.9,No,Baja,No,Alta en carbohidratos
+967,69,Femenino,74,Si,155.2,119,No,Negativo,171,184.5,Ninguno,97,74,16.5,Si,Ninguna,No,Alta en carbohidratos
+968,74,Femenino,51,Si,103.8,163,No,Negativo,175,264.4,Ninguno,60,74,13.5,Si,,Si,Alta en grasas
+969,55,Femenino,74,Si,90.7,107,No,Positivo,193,100.2,Tipo 1,84,84,15.2,No,Moderada,No,Alta en carbohidratos
+970,50,Femenino,82,No,90.9,158,No,Negativo,174,160.2,Tipo 1,95,80,18,No,Baja,Si,Balanceada
+971,41,Femenino,,Si,79.2,128,Si,Negativo,,296.2,,76,83,17.1,No,Baja,Si,Alta en grasas
+972,32,Masculino,80,Si,94.1,149,No,Negativo,162,195,Tipo 2,83,64,12.6,Si,Moderada,No,Balanceada
+973,77,Masculino,63,No,156.3,132,Si,Positivo,169,176.5,Tipo 2,61,65,16.2,Si,Moderada,Si,Balanceada
+974,47,Femenino,50,Si,184.6,134,Si,Negativo,174,124,Gestacional,99,82,14.1,Si,Moderada,Si,Alta en grasas
+975,72,Masculino,95,Si,175.8,112,Si,Positivo,,294.8,Ninguno,74,63,12,Si,Ninguna,Si,Baja en protei要as
+976,59,Masculino,65,No,159.1,158,No,Positivo,159,104,Ninguno,91,86,14.4,No,Moderada,No,Baja en protei要as
+977,68,Femenino,95,Si,84.4,95,Si,Positivo,152,247.4,Tipo 2,98,77,13.4,No,Alta,Si,Balanceada
+978,34,Masculino,52,Si,107.6,145,Si,Negativo,190,253.7,,65,80,16.9,No,Moderada,No,Baja en protei要as
+979,22,Masculino,84,Si,110.3,93,Si,Negativo,194,148.7,Ninguno,,87,14,No,Moderada,No,Alta en carbohidratos
+980,46,Masculino,90,Si,102.5,112,Si,Negativo,167,234.3,Tipo 1,82,94,17,Si,Moderada,No,Alta en grasas
+981,21,Masculino,55,Si,137,95,No,Negativo,196,118.6,Ninguno,98,81,12,No,,Si,Balanceada
+982,27,Masculino,74,No,139.6,121,No,Negativo,185,151.4,Ninguno,76,99,,No,Ninguna,Si,Alta en carbohidratos
+983,73,Femenino,62,No,116.4,107,Si,Positivo,196,257.6,Tipo 2,93,82,13.4,Si,Moderada,No,Baja en protei要as
+984,34,Femenino,83,No,,104,Si,Positivo,171,272.9,Tipo 2,88,62,13.4,Si,Ninguna,No,Alta en carbohidratos
+985,27,Femenino,57,No,177.7,129,No,Positivo,183,221.7,Tipo 1,68,,12.4,No,Alta,Si,Baja en protei要as
+986,34,Masculino,70,No,172.6,162,No,Negativo,196,201.4,Tipo 1,72,69,,Si,Alta,,Balanceada
+987,77,Femenino,83,No,110,163,No,Positivo,157,131.9,Gestacional,65,84,15.3,No,Moderada,No,Alta en carbohidratos
+988,37,Masculino,53,Si,188.8,173,Si,Positivo,189,112.6,Ninguno,65,67,13.7,Si,Alta,Si,Alta en grasas
+989,41,Masculino,74,No,193.9,95,No,Negativo,198,123.5,Tipo 2,79,,14.5,Si,Ninguna,No,Balanceada
+990,22,Masculino,64,No,112.5,152,Si,Negativo,193,,Tipo 1,62,64,14.3,No,Baja,Si,Alta en carbohidratos
+991,51,Masculino,53,Si,116.1,156,Si,Positivo,168,168.3,Gestacional,76,96,17.3,Si,Moderada,Si,Alta en carbohidratos
+992,23,Femenino,94,Si,135.7,100,No,Positivo,191,176.2,Gestacional,71,97,17.4,No,Alta,No,
+993,70,Femenino,61,No,192.3,132,Si,Negativo,190,169.3,Tipo 2,60,88,,Si,Ninguna,Si,Balanceada
+994,19,Masculino,81,Si,183.9,106,No,Negativo,186,147.8,Tipo 2,76,64,14,Si,Ninguna,Si,Balanceada
+995,30,Femenino,81,No,,93,Si,Negativo,155,,Gestacional,62,68,12.6,Si,Alta,Si,Balanceada
+996,79,Masculino,77,Si,121.1,152,No,Negativo,175,265.1,Tipo 1,85,61,17.7,Si,Ninguna,No,Balanceada
+997,60,Femenino,62,No,141.9,157,Si,Positivo,183,155.9,Gestacional,74,60,12.4,Si,Ninguna,No,Baja en protei要as
+998,60,Femenino,80,Si,135.4,170,Si,Positivo,194,288.5,Ninguno,95,99,13.8,No,Moderada,No,Alta en grasas
+999,65,Masculino,63,Si,95.2,130,No,Negativo,155,274.7,Ninguno,91,89,13.8,Si,Ninguna,Si,Balanceada
+1000,28,Femenino,,No,181.6,172,No,Positivo,186,132.4,Tipo 2,,70,,No,Alta,,Baja en protei要as
